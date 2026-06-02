@@ -1998,5 +1998,3005 @@
     "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sylvain Dupont. ⚠ Cycle de vente long (multi-décideurs).",
     "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300571049",
     "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "COMPTOIR ELECTRIQUE FRANCAIS (CEF)",
+    "localite": "Francheville",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Eric Barrile. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319883344",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE DU CREDIT MUTUEL NORD EUROPE (CFCMNE)",
+    "localite": "Lille",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Philippe Cacaux. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/320342264",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "ALLIOS",
+    "localite": "La Penne-Sur-Huveaune",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Antoine Dufour. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775560295",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "SAEM EXPLOITATION STATIONNEM VILLE PARIS (SAEMES)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Michel Archambault. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/317032993",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "CORNER CUISINE DISTRIBUTION",
+    "localite": "Bruges",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Dabr Audit Et Conseil. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/848459285",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "GLOBAL EXPLOITATION",
+    "localite": "Montpellier",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Mael Aoustin. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/535302525",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "ASS DE LOISIRS EDUCATIFS ET DE FORMATION (ALEF)",
+    "localite": "Wiwersheim",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/310498217",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "BASTIDE LE CONFORT MEDICAL",
+    "localite": "Caissargues",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Anthony Arvieu. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/305635039",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "VETIR",
+    "localite": "Montrevault-Sur-Evre",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cyril Goulet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/322424342",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISS REGIO CREDI AGRIC MUTUEL PARIS IDF",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alexandra Agenet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775665615",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "ALKERN FRANCE",
+    "localite": "Harnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pricewaterhousecoopers Audit Sa. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/896850286",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "Q-PARK FRANCE SERVICES",
+    "localite": "Issy-Les-Moulineaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Q-Park France Holding. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/834424095",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "QUICK GESTION",
+    "localite": "Aubervilliers",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Kpmg S.A. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/842864613",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "KLEPIERRE MANAGEMENT",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Marc Jestin. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/562100214",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "ADAPEILA",
+    "localite": "Nantes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775605405",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "IDVERDE",
+    "localite": "Courbevoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Xavier Piccino. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/339609661",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "ZEEMAN TEXTIELSUPERS",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Erik-Jan Mares. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/443918776",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REG CREDIT AGRIC MUT CTRE FRANCE (CACF)",
+    "localite": "Clermont-Ferrand",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Frederic Baraut. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/445200488",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "STELLANTIS AUTO SAS",
+    "localite": "Poissy",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 10 000 salariés et plus) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Xavier Chereau. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542065479",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "KUEHNE + NAGEL ROAD",
+    "localite": "Villefranche-Sur-Saone",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Xavier Leger. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493191407",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "ODALYS RESIDENCES",
+    "localite": "Aix-En-Provence",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Johanna Ambil. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487696080",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SOMAREC",
+    "localite": "Le Lamentin",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Exco Sarc. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/387903719",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "SECOURS CATHOLIQUE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775666696",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "PROMAN 116 (PROMAN)",
+    "localite": "Manosque",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Roland Gomez. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/750741993",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "FRANS BONHOMME",
+    "localite": "Saint-Alban",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Yann Guaus. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383706397",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE D'EPARGNE ET DE PREVOYANCE DE RHONE ALPES (CERA(CAISSE EPARGNE)",
+    "localite": "Lyon",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Gerard Balthazard. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384006029",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "HERMES SELLIER",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Florian Craen. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/696520410",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "SOCIETE AIR FRANCE",
+    "localite": "Tremblay-En-France",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 10 000 salariés et plus) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Gael Amaudry. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/420495178",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "NEW COURT",
+    "localite": "Montrouge",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Deloitte & Associes. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888796430",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "VILOGIA SOCIETE ANONYME D'HLM",
+    "localite": "Villeneuve-D'Ascq",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Carole Blanquart. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/475680815",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "VYV3 TERRES D'OC (VYV3 TO)",
+    "localite": "Albi",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775711674",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "HERTZ FRANCE",
+    "localite": "Montigny-Le-Bretonneux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jeffrey Adams. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/377839667",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "SHELL FRANCE",
+    "localite": "Puteaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Vincent Baril. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/780130175",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "AESIO MUTUELLE (AESIO MUTUELLE)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775627391",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "PRECIA MOLEN SERVICE",
+    "localite": "Veyras",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Franck Legallois. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349743179",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "EFFIA PARK",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Michel Archambault. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/521847434",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "PV EXPLOITATION FRANCE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ernst & Young Et Autres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/884607193",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "DECATHLON",
+    "localite": "Villeneuve-D'Ascq",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Fabien Brosse. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/306138900",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE HOSPITALIER ALPES ISERE (CHAI)",
+    "localite": "Saint-Egreve",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/263800211",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "LES INTERIMAIRES PROFESSIONNELS INDUSTRIE & BATIMENT (LIP INDUSTRIE & BATIMENT)",
+    "localite": "Lyon",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Audilex. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981323330",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "PEGASE (PEGASE)",
+    "localite": "Saint-Malo",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Patrice Morot. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/883628877",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REG CREDIT AGRI MUTUEL AQUITAINE",
+    "localite": "Bordeaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Christophe Barrailh-Lafargue. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434651246",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "ENDEL",
+    "localite": "Puteaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Madany Lias. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438277030",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "CAT FRANCE",
+    "localite": "Suresnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Patrice Grosset. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440253714",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "CAFE SIRENE FRANCE (STARBUCKS COFFEE)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Beas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/445330103",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SQUARE HABITAT CHARENTE-MARITIME DEUX-SEVRES (SQUARE HABITAT CHRENTE-MARITIME DEUX-SEVRES)",
+    "localite": "Lagord",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Mickaël Deschamps. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/394234397",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "LADAPT (LADAPT)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775693385",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "CARREFOUR VOYAGES",
+    "localite": "Evry-Courcouronnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pierre-Marie Carraud. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379601974",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "BP FRANCE",
+    "localite": "Cergy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Franck Bouheret. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542034327",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REG CREDIT AGRICOLE MUT CTRE-EST (CRCAMCE)",
+    "localite": "Champagne-Au-Mont-D Or",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Eric Angelot. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399973825",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "APROLIS",
+    "localite": "Creteil",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Benjamin De Curieres De Castelnau. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/728206533",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "KUEHNE+NAGEL",
+    "localite": "Ferrieres-En-Brie",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Yevgen Derkach. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/333583466",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "C'MIDY",
+    "localite": "Guyancourt",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (hôtellerie / restauration, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pierre Bedier. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/843409137",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SQUARE HABITAT SUD RHONE ALPES",
+    "localite": "Valence",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Eric Lebrat. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378336143",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "INOVIE LABOSUD",
+    "localite": "Montpellier",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Michel Beziat. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/329208771",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "STRICHER",
+    "localite": "Montreuil",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Frantz Desprez. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775741440",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "CERTAS ENERGY FRANCE",
+    "localite": "Rueil-Malmaison",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Laurent De Sere. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/808636849",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CCF (CCF - BANQUE DES CARAIBES)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (banque / assurance, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Maria Goiri. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/315769257",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "SCHNEIDER ELECTRIC FRANCE",
+    "localite": "Rueil-Malmaison",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Aymeric Renaud. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/421106709",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "ID LOGISTICS FRANCE",
+    "localite": "Orgon",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Beas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/433691862",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "SERVICES ET SANTE",
+    "localite": "Courbevoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Boris Derichebourg. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/348415506",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SAS SQUARE HABITAT CREDIT AGRICOLE TOURAINE POITOU (SQUARE HABITAT)",
+    "localite": "Tours",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ronan Lefeuvre. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/714800729",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "COLISEE FRANCE",
+    "localite": "Bordeaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cisane. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480080969",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "VERISURE (VERISURE)",
+    "localite": "Antony",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Allender. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/345006027",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "JULES",
+    "localite": "Roubaix",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Joannes Soenen. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/305154262",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE POPULAIRE DU SUD",
+    "localite": "Perpignan",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Assie. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/554200808",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "SIEMENS S.A.S",
+    "localite": "Courbevoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Doris Birkhofer (Hermann). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/562016774",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "DHL INTERNATIONAL EXPRESS (FRANCE)",
+    "localite": "Le Bourget",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Philippe Pretat. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/494956774",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "MRS PARIS (MRS)",
+    "localite": "Suresnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Francois Martinez. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352799340",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SOCIETE D ETUDES ET DE REALISATION DE GESTION IMMOBILIERE DE CONSTRUCTION (SERGIC)",
+    "localite": "Wasquehal",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Stephane Gros. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/428748909",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "LA SAUVEGARDE DU NORD (ADNSEA)",
+    "localite": "Lambersart",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775624679",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "ATS CULLIGAN (A.T.S.)",
+    "localite": "Versailles",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Christopher Landry. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/382141901",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "MICROMANIA",
+    "localite": "Valbonne",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Beas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/418096392",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAFPI",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (banque / assurance, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Caroline Camel (Arnould). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/510302953",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "AUBADE PARIS",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Kpmg S.A. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775695901",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "COLIS PRIVE FRANCE",
+    "localite": "Marseille 2Eme",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pkf Fidea Controle. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/391029345",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "HOMAIR VACANCES",
+    "localite": "Aix-En-Provence",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Philippe De Tremiolles. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484881917",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "ERILIA (ERILIA)",
+    "localite": "Marseille",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Fabienne Abecassis. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/058811670",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "MEDICA FRANCE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Anne-Laure Aubret. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/341174118",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "KARAVEL (CARAVEL-KARAVELLE-KARAVELE-CARAVELL-CARVAIL-KVL VOYAGES)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ernst & Young Et Autres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532321916",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "SEPHORA",
+    "localite": "Neuilly-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Guillaume Motte. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/393712286",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE D'EPARGNE ET DE PREVOYANCE DE BOURGOGNE FRANCHE-COMTE",
+    "localite": "Dijon",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jerome Ballet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352483341",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "CABOSSE & ASSOCIES",
+    "localite": "Issy-Les-Moulineaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Francois Caillet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538825761",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "ZIEGLER FRANCE SA",
+    "localite": "Roncq",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alain Ziegler. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/354500225",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "LA BRIOCHE DOREE",
+    "localite": "Cesson-Sevigne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Kpmg S.A.. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/318906591",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "VAL DE FRANCE TRANSACTIONS",
+    "localite": "Montigny-Le-Bretonneux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alain Blanchard. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/753742626",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "AGIR SOIGNER EDUQUER INCLURE (ASEI)",
+    "localite": "Ramonville-Saint-Agne",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775581226",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "LES COMPAGNONS",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Nathalie Jaoui (Guedj). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/309979631",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "CROMOLOGY DISTRIBUTION",
+    "localite": "Puteaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sabine Molinié. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/306289307",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE CIC EST (CIC EST)",
+    "localite": "Strasbourg",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alexandre Argiolas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/754800712",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "LES ELEVEURS DE LA CHARENTONNE",
+    "localite": "Gace",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Natup Distribution. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478753353",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "MONDIAL RELAY",
+    "localite": "Villeneuve-D'Ascq",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : David Lewkowitz. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/385218631",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "APPART'CITY",
+    "localite": "Montpellier",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Benedict Annable. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/490176120",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "HBH",
+    "localite": "Rennes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Blot Immobilier. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487607095",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "BIOGROUP COTE D'AZUR",
+    "localite": "Mandelieu-La-Napoule",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Katie Gozlan (Agu). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/412961088",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "PHARMA DOM (ORKYN')",
+    "localite": "Bagneux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Fabienne Chatel. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/324501006",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "DISTRICO",
+    "localite": "Saint-Lo",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pricewaterhousecoopers. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/353669419",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE FEDERALE DU CREDIT MUTUEL OCEAN (CFCMO)",
+    "localite": "La Roche-Sur-Yon",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Martine Gaillou (Autexier). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/307049015",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "JC MENARD CHOCOLATERIE",
+    "localite": "Chambray-Les-Tours",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sophie Skornik (Adjadj). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342132156",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "HEPPNER SOCIETE DE TRANSPORTS",
+    "localite": "Hœrdt",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Murielle Glad (Laudrin). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/769800202",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "SERENEST ENTREPRISE (SERENEST ENTREPRISE - GROUPE VERMAAT)",
+    "localite": "Asnieres-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Nicolas Imeneuraët. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822787404",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "NEOLIA",
+    "localite": "Montbeliard",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Veronique Bouvret (Baud). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/305918732",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "DOMUSVI DOMICILE",
+    "localite": "Suresnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Domusvi. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/408660595",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "DERICHEBOURG INTERIM (DERICHEBOURG INTERIM ET RECRUTEMENT)",
+    "localite": "Boissy-Saint-Leger",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Boris Derichebourg. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/602044638",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "PROMOD",
+    "localite": "Marcq-En-Baroeul",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Vincent Debels. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/685420606",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REG CREDIT AGRI MUTUEL ANJOU MAIN",
+    "localite": "Le Mans",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Marie-Anne Clerc (Ariaux). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414993998",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "KP1",
+    "localite": "Avignon",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Kp1 Services. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/976320309",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "APRR (SAPRR)",
+    "localite": "Saint-Apollinaire",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Marie Amet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/016250029",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "CONVIVIO-HR",
+    "localite": "Saint-Martin-Du-Vivier",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cjp. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/338939101",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "CREDIT AGRICOLE AQUITAINE AGENCE IMMOBILIERE (C3AI CREDIT AGRICOLE AQUITAINE AGENCE IMMOBILIERE)",
+    "localite": "Bordeaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Guillaume Lakdja. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492498746",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "LPCR COLLECTIVITES PUBLIQUES (LES PETITS CHAPERONS ROUGES)",
+    "localite": "Saint-Ouen-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Vincent Guffroy. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/494149990",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "ADECCO MEDICAL (ADECCO MEDICAL)",
+    "localite": "Villeurbanne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alexander Viros. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/682003991",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "DECATHLON FRANCE",
+    "localite": "Villeneuve-D'Ascq",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 10 000 salariés et plus) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Bastien Grandgeorge. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500569405",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REG CREDIT AGRIC MUT NORD FRANCE (CRCAM NDF)",
+    "localite": "Lille",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sophie Robiquet (Bassement). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440676559",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "CEMEX BETONS SUD EST",
+    "localite": "Rungis",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ion Barascu. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399161579",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "ITM LOGISTIQUE ALIMENTAIRE INTERNATIONAL",
+    "localite": "Paris 15",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Provost. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/514080837",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "SOCIETE D'EXPLOITATION DES RESIDENCES HOTELIERES RAIL (ORFEA)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Arnaud Belveau-Jean. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/452440381",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "3 BRASSEURS LG",
+    "localite": "Lezennes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jonathan Habib. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519022966",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES (CROUS)",
+    "localite": "Lille",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/185911500",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "GROUPE MORGAN SERVICES (GROUPE MORGAN SERVICES)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alexandre Boisson. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/722023728",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
+    "localite": "Cahors",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : S O D Invest. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423228915",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "HARMONIE MUTUELLE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538518473",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "OTTOBOCK RESEAU ORTHOPEDIE & SERVICES",
+    "localite": "Les Ulis",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Yves Audran. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/899011928",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "AUTOROUTE ESTEREL COTE AZUR PROVENCE ALP (ESCOTA)",
+    "localite": "Mandelieu-La-Napoule",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean Mesqui. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/562041525",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "FLUNCH (FLUNCH)",
+    "localite": "Lezennes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Hervé Rampal. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/320772510",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SUDMED ROUSSILLON",
+    "localite": "Perpignan",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Patrice Geraud. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532684461",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CLINEA",
+    "localite": "Puteaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 10 000 salariés et plus) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Laurent Guillot. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/301160750",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "GLOBAL BUSINESS TRAVEL FRANCE (AEV)",
+    "localite": "Issy-Les-Moulineaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Yorick Charveriat. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/304475338",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "ETAM LINGERIE",
+    "localite": "Clichy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Frederic De Castro. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478355753",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE CIC NORD OUEST (CIC NORD OUEST)",
+    "localite": "Lille",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Yannick Delepine. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/455502096",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "LIBAUD",
+    "localite": "La Rochelle",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Thierry Rochard. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/317666931",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "DACHSER FRANCE (DACHSER)",
+    "localite": "Chanverrie",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean Deflandre. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/546650334",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "ASSOCIATION POUR LE LOGEMENT DES JEUNES TRAVAILLEURS (ALJT)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775666431",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "HAUTS-DE-SEINE HABITAT - OPH (OPDH92)",
+    "localite": "Levallois-Perret",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Lourdes Ange. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/279200224",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "ORSAC (ORSAC)",
+    "localite": "Plateau D'Hauteville",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775544562",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "SAMSIC II",
+    "localite": "Cesson-Sevigne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 10 000 salariés et plus) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Samsic Iv. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/428685358",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "TOTALENERGIES MARKETING FRANCE",
+    "localite": "Nanterre",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Guillaume Larroque. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531680445",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE POPULAIRE ALSACE LORRAINE CHAMPAGNE (BPALC)",
+    "localite": "Metz",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ridha Ben Chamek. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/356801571",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "EPALIA",
+    "localite": "Lyon",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Renaud Cornu. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/330000878",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "GXO LOGISTICS FRANCE (XPO SCH FR)",
+    "localite": "Toulouse",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Vincent Ricci. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378992895",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "ONLY CAMP",
+    "localite": "Saint-Genis-Les-Ollieres",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Axel Penin. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882645153",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SOCIETE DES CENTRES COMMERCIAUX (SCC)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Marco Balducci. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/689801231",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "LPCR CDF (LES PETITS CHAPERONS ROUGES)",
+    "localite": "Saint-Ouen-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ernst & Young Et Autres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/453456014",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "GIE AG2R",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sophie Winckler (Badin). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/801947052",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "T.D-DISTRIBUTION THEVENIN-DUCROT-DISTRIBUTION (AVIA)",
+    "localite": "Chevigny-Saint-Sauveur",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Adrien Ducrot. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352860639",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE POPULAIRE AQUITAINE CENTRE ATLANTIQUE (BPACA)",
+    "localite": "Bordeaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alain Boy. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/755501590",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "SULO FRANCE",
+    "localite": "Colombes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Thierry Koskas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/778151944",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "UNITED PARCEL SERVICE FRANCE SAS (UPS-FRANCE) (UPS)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Daniel Carrera Garcia. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/334175221",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "SUSHI SHOP RESTAURATION",
+    "localite": "Courbevoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Kpmg S.A.. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449531391",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SQHPB (SQUARE HABITAT)",
+    "localite": "Serres-Castet",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Bertrand Harry. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798687695",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "GROUPE SOS JEUNESSE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775685506",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "BIOMEGA HYGIENE",
+    "localite": "Toulouse",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Dédia Audit. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491371811",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "EG RETAIL (FRANCE) SAS",
+    "localite": "Cergy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Russell Colaco. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439793811",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "MUTUELLE ASSURANCE INSTITUTEUR FRANCE (MAIF)",
+    "localite": "Niort",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775709702",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "FURSAC",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Louise Bousquet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378486096",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "SOC FRANCAISE TRANSPORTS GONDRAND FRERES (SFTGF)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Mathias Brosowsky. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/602002461",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "LA BOITE A ENCAS",
+    "localite": "Clichy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Heloise Ducos-Declercq (Ducos). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/807708300",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "MOUNTAIN COLLECTION IMMOBILIER",
+    "localite": "Chambery",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Gregory Chaffrais. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509089322",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CERBALLIANCE PROVENCE-AZUR",
+    "localite": "Marseille",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Bausset. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/518767462",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "ASSOCIATION POUR L'EMPLOI DES CADRES (APEC)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775672231",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "NORAUTO FRANCE",
+    "localite": "Villeneuve-D'Ascq",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Thibaut Lesaffre. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480470152",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE POPULAIRE RIVES DE PARIS",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Valerie Accary. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552002313",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "GCA SUPPLY PACKING (GCA SUPPLY PACKING)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Frederic Damaisin. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352533921",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "TEREGA (TIGF)",
+    "localite": "Pau",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Paola Bonandrini. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/095580841",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "SERGIC RESIDENCES SERVICES (TWENTY CAMPUS)",
+    "localite": "Wasquehal",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Fiduciaire Metropole Audit. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/410634620",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "MCDONALD'S SYSTEM OF FRANCE INC",
+    "localite": "France",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jacques Mignault. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/323162321",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES (CROUS)",
+    "localite": "Nantes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/184401321",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "SECURITAS FRANCE SARL",
+    "localite": "Issy-Les-Moulineaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 10 000 salariés et plus) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Frank Lambrigts. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/304497852",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "OCEALIA",
+    "localite": "Cognac",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Francois Arnauld. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775715592",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL BRIE PICARDIE (CRCAMBP)",
+    "localite": "Amiens",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alain Andreose. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487625436",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "VERRE SOLUTIONS",
+    "localite": "Coueron",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Kpmg Sa. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/327630356",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "TRANSPORT ET VALORISATION",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Paprec Grand-Ouest. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790117303",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "GOELIA GESTION",
+    "localite": "Evry-Courcouronnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Patrick Labrune. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/435285077",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "SOCIETE D'INVESTISSEMENT FRANCE HOTELS (SIFH)",
+    "localite": "Evry-Courcouronnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Catherine Beike (Rawanduzi). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440117976",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES (CROUS)",
+    "localite": "Lyon",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/186901567",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "FRAM",
+    "localite": "Toulouse",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ernst & Young Et Autres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814154134",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "MONOPRIX EXPLOITATION, PAR ABREVIATION MPX",
+    "localite": "Clichy",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 10 000 salariés et plus) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Frédéric Davignon. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552083297",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE DE CREDIT MUTUEL D'ILE DE FRANCE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sonia Arrouas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/692043714",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "TRESCAL",
+    "localite": "Rungis",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Guillaume Caroit. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/562047050",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "NEOLOG",
+    "localite": "Le Kremlin-Bicetre",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alexis Antoszkiewicz. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493255749",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "SODEXO SPORTS ET LOISIRS",
+    "localite": "Guyancourt",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (hôtellerie / restauration, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Franck Chanevas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/311160592",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "EDOUARD DENIS TRANSACTIONS",
+    "localite": "Villeneuve-D'Ascq",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Fabien Acerbis. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477564868",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "OUIHELP",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pierre-Emmanuel Bercegeay. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/817947161",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "SAMSIC INDOORS",
+    "localite": "Cesson-Sevigne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Gilles Cavallari. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824622724",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "WURTH FRANCE",
+    "localite": "Erstein",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Gabriel Boillet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/668502966",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL PROVENCE COTE D'AZUR (ALPES DE HAUTE PROVENCE - ALPES MARITIMES - VAR) (CRCAMPCA)",
+    "localite": "Draguignan",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Marc Albesiano. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/415176072",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "BETON DES MONTS DU LYONNAIS (BML)",
+    "localite": "Saint-Martin-En-Haut",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Axens Audit. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/350064226",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "GCA SUPPLY LOGISTICS (GCA SUPPLY LOGISTICS)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Frederic Damaisin. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791481302",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "ADAGIO S.A.S",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Martine Vallette (Cohen Skalli). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503938110",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "VAL TOURAINE HABITAT (OPH)",
+    "localite": "Tours",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Martine Chaigneau (Blossier). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/781598248",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "LA VIE ACTIVE",
+    "localite": "Arras",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775629934",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "MAJ",
+    "localite": "Pantin",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Anne Bailly (Dupas). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775733835",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "EUROMASTER FRANCE",
+    "localite": "Montbonnot-Saint-Martin",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Marc Frustie. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392527404",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL  ATLANTIQUE VENDEE (CAAV)",
+    "localite": "Nantes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Christine Crocquevieille-Barreau (Barreau). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440242469",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "DIM FRANCE SAS",
+    "localite": "Rueil-Malmaison",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Stylianos Efstathiou. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/488727298",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "ONET LOGISTIQUE",
+    "localite": "Marseille",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Guillaume Bernard De Montessus De Ballore. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/562107003",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "AMREST OPCO SAS",
+    "localite": "Courbevoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Kpmg Sa. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/831200043",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "CARMEN TRANSACTIONS IMMOBILIERES (C.T.I.)",
+    "localite": "Urrugne",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Hetzi. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/912695111",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "OVE",
+    "localite": "Vaulx-En-Velin",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/801252719",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "AAA FRANCE CARS",
+    "localite": "Lesquin",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cathleen De Genova. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/382402683",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "KING JOUET (KING JOUET)",
+    "localite": "Voiron",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Philippe Gueydon. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/347926719",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE D'ASSURANCES MUTUELLES AGRICOLES CENTRE-ATLANTIQUE (GROUPAMA CENTRE-ATLA)",
+    "localite": "Niort",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Emmanuel Baratte. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/381043686",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "LA PANIERE",
+    "localite": "Aix-Les-Bains",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Anderlaine Audit. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414646760",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "FM FRANCE",
+    "localite": "Phalsbourg",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Magali Charpin. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/367801404",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "VVF",
+    "localite": "Clermont-Ferrand",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775634132",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "DOMITYS SUD-OUEST",
+    "localite": "Paris 14",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Wigniolle. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519083406",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES (CROUS)",
+    "localite": "Versailles",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/187800081",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "VITALAIRE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Nesrine Djebali. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/425039773",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "CLAIRE'S FRANCE (CLAIRE'S)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Stuart Brown. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342837416",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE D ASSURANCES MUTUELLES AGRICOLES DU GRAND EST (CRAMA)",
+    "localite": "Schiltigheim",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Xavier Crepon. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379906753",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "FORMOTION FRANCE S.A.S. (FORMOTION ORTHOPEDIE)",
+    "localite": "Rennes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Conal Harte. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/830355640",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "CARREFOUR SUPPLY CHAIN",
+    "localite": "Mondeville",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Emmanuel Grenier. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/428240287",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "SOC COMMERCIALE HOTELS ECONOMIQUES (SCHE)",
+    "localite": "Evry-Courcouronnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Catherine Beike (Rawanduzi). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378114110",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "1001 VIES HABITAT",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pierre-Etienne Bisch. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/572015451",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES (CROUS)",
+    "localite": "Montpellier",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/183400084",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "HUMANDO",
+    "localite": "Villeurbanne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Denis Machuel. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/401015938",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "AUCHAN SUPERMARCHE",
+    "localite": "Villeneuve-D'Ascq",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Auchan Retail France. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/410409015",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE CIC SUD OUEST (CIC SUD OUEST)",
+    "localite": "Bordeaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Caroline Boutrais (Boutrais). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/456204809",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "VICAT (VICAT)",
+    "localite": "L'Isle-D'Abeau",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Lukas Epple. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/057505539",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "UNE PIECE EN PLUS",
+    "localite": "Rueil-Malmaison",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Deloitte & Associes. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351798764",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "ECONOMAT DES ARMEES",
+    "localite": "Pantin",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Julien Basso. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542085907",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "FRANCHE-COMTE CREDIT AGRICOLE IMMOBILIER (FCCAI)",
+    "localite": "Besancon",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Philippe Bouquet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/920410784",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "AFEJI HAUTS DE FRANCE (AFEJI)",
+    "localite": "Lille",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/304576218",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "BRINK'S EVOLUTION",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Francois Sugier. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/324613678",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "NORMAL FRANCE",
+    "localite": "Paris 12",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Steen Hansen. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/844431486",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE FEDERALE DU CREDIT MUTUEL DE MAINE ANJOU ET BASSE NORMANDIE (CFCM-MABN)",
+    "localite": "Laval",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean Bigare. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/556650208",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "SERVICES ORGANISATION METHODES (SOM)",
+    "localite": "Aix-En-Provence",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Avenol. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/325444693",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "LE ROY LOGISTIQUE",
+    "localite": "Saint-Jacques-De-La-Lande",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Patrick Sesboue. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/441996204",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "VACANCES TOURISME FAMILLE (VTF)",
+    "localite": "Thionville",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775619588",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "PICHET IMMOBILIER SERVICES",
+    "localite": "Pessac",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Benoit Pichet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/432296234",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES (CROUS)",
+    "localite": "Bordeaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/183300086",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "ELIVIE",
+    "localite": "Villeurbanne",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Revilec Audit. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/333954386",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "CONFORAMA FRANCE",
+    "localite": "Lognes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Flavien Dhellemmes. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414819409",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "GROUPAMA MEDITERRANEE (GROUPAMA MEDITERRANEE) (CRAMA MEDITERRANEE)",
+    "localite": "Aix En Provence",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Nicolas Assemat. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379834906",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "PIERRE HERME FRANCE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Eric Vincent. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434851952",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "XPO DISTRIBUTION FRANCE (XPO DISTRIB FR)",
+    "localite": "Lyon",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Xavier Bour. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383242161",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "CONVIVIO-RTC (CONVIVIO)",
+    "localite": "Castelnau-D'Estretefonds",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cjp. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/350629986",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "DOMITYS CENTRE-OUEST",
+    "localite": "Paris 14",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Wigniolle. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/452414774",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "FRANCE TERRE D ASILE (FTDA)",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/784547507",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "LOOMIS FRANCE",
+    "localite": "Aubervilliers",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Michel Tresch. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479048597",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "TERRENA",
+    "localite": "Ancenis-Saint-Gereon",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Emmanuel Benoist. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/429707292",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE D'EPARGNE ET DE PREVOYANCE LOIRE-CENTRE (CELC)",
+    "localite": "Orleans",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Julien-Christian Bar. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383952470",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "LINDT ET SPRUNGLI",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Baptiste Jarry. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/672024155",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "IDEA LOGISTIQUE",
+    "localite": "Montoir-De-Bretagne",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Nicolas Derouault. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/422149617",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "HOLDING DE RESTAURATION CONCEDEE HRC",
+    "localite": "Saint-Ouen-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Dorian Claire. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379455231",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "ANGLE NEUF",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Regis Abgrall. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/510539018",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "GROUPE HOSPITALIER UNIVERSITAIRE PARIS - PSYCHIATRIE ET NEUROSCIENCES",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/200082105",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "GI SERVICES FRANCE (GI GROUP AUTOMOTIVE - ONEPI - GRAFTON - GI LIFE SCIENCES)",
+    "localite": "Courbevoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Nicola Dell'Edera. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/311305650",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "KIABI EUROPE (KIABI)",
+    "localite": "Lezennes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Hugues De Pommereau. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/344103270",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE D'EPARGNE ET DE PREVOYANCE DE MIDI PYRENEES",
+    "localite": "Toulouse",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Daniel Astruc. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383354594",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "PONTICELLI FRERES",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Corinne Cipiere. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/562036624",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "INDIGO INFRA FRANCE",
+    "localite": "Puteaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sebastien Fraisse. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/304646078",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "CONVIVIO-LTR",
+    "localite": "Chambray-Les-Tours",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cjp. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442687679",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "IMMOBILIER GESTION PRIVEE (SQUARE HABITAT)",
+    "localite": "Strasbourg",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Pascal Maire. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/482738119",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CERBALLIANCE AQUITAINE",
+    "localite": "Le Haillan",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Charlotte François. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/323191106",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "SECTOR ALARM",
+    "localite": "Massy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cedric Bernard-Laufer (Bernard). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/402490866",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "AS 24",
+    "localite": "Saint-Herblain",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Philippe Callejon. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/347538043",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE DE CREDIT MUTUEL DE LOIRE- ATLANTIQUE ET DU CENTRE OUEST",
+    "localite": "Nantes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Françoise Verger (Archambeau). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/870800299",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "STRADAL",
+    "localite": "Cergy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Laurent Delafond. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/301984563",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "INTERPARKING FRANCE",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Emmanuel Benoist. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/692051113",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "FRANCE RESTAURATION RAPIDE (FRR)",
+    "localite": "Saint-Germain-Du-Puy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Spy Finance. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/330319260",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "OFFICE PUBLIC DE L'HABITAT DU MORBIHAN (MORBIHAN HABITAT)",
+    "localite": "Vannes",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (immobilier, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Marc Boutruche. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/275600047",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES (CROUS)",
+    "localite": "Saint Martin D'Heres",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/183801562",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "GIE DES HOTELS SUPER ECONOMIQUES",
+    "localite": "Evry-Courcouronnes",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Xavier Perret. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/444698500",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "CALZEDONIA FRANCE",
+    "localite": "Paris 5",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Alessandro Ceretto. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/515099562",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE D'EPARGNE ET DE PREVOYANCE DE NORMANDIE",
+    "localite": "Bois-Guillaume",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Anne Tiennebrune (Bernard). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384353413",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "LA DETECTION ELECTRONIQUE FRANCAISE (DEF)",
+    "localite": "Massy",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Philippe Lecuyer. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/712056266",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "CIBLEX FRANCE",
+    "localite": "Ivry-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ivan Stempezynski. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/310996178",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "GROUPE ELITE RESTAURATION",
+    "localite": "Joigny",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sophie Porte. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/331108753",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "BPCE IMMO EXPLOITATION",
+    "localite": "Paris 13",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Laurent Benatar. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352784227",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "GROUPE SOS SENIORS",
+    "localite": "Metz",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775618150",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "PAGE PERSONNEL",
+    "localite": "Neuilly-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Isabelle Lebaupain (Bastide). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399256890",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "SOUFFLET AGRICULTURE",
+    "localite": "Nogent-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Christophe Passelande. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/706980182",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CRCAM NORD MIDI-PYRENEES",
+    "localite": "Albi",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-François Alquier. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/444953830",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "PRODUITS DE REVETEMENT DU BATIMENT (P.R.B.)",
+    "localite": "Les Achards",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Olivier Troussicot. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/303789127",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "PRO ARCHIVES SYSTEMES (AGS RECORDS MANAGEMENT)",
+    "localite": "La Chevroliere",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Cedric Castro. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/338183726",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "RESIDE ETUDES APPARTHOTELS",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Mehdi Kabbadj. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/488885732",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "CREDIT AGRICOLE IMMOBILIER PROPERTY MANAGEMENT (CAI-PM)",
+    "localite": "Asnieres-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : David Chouraqui. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/732073887",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "CENTRE HOSPITALIER DU ROUVRAY",
+    "localite": "Sotteville-Les-Rouen",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/267602175",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "CHATEAUFORM' FRANCE",
+    "localite": "Persan",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Beatrice Bonnet (Bassinet). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/402559595",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "CAROLL INTERNATIONAL",
+    "localite": "Saint-Malo",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Roland Beaumanoir. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/582001707",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD RHONE ALPES",
+    "localite": "Grenoble",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Luc Allemand. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/402121958",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "NORDEX FRANCE (NORDEX FRANCE SAS)",
+    "localite": "Saint-Denis",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jean-Christophe Georghiou. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439008004",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "DSV AIR & SEA SAS",
+    "localite": "Gennevilliers",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Eric Bellissent. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300961018",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "VACANCEOLE",
+    "localite": "Porte-De-Savoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Mcr. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519796429",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "IMMOBILIERE 3F",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Sebastien Benet. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552141533",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "ASSOCIATION FAMILIALE DE L'ISERE POUR PERSONNES HANDICAPEES (AFIPH)",
+    "localite": "Grenoble",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (santé / médico-social, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775595903",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "SALTI LOCATION (SALTI - NAS-L - GROUPE SALTI - LOCAPOLE - MAT - MAT LOCATION - NAS-L LOCATION)",
+    "localite": "Marcq-En-Barœul",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jacqueline Guiot. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/393130455",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "CELIO FRANCE",
+    "localite": "Saint-Ouen-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (commerce / distribution, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Beas. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/313334856",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "BANQUE POPULAIRE OCCITANE (BPOC)",
+    "localite": "Balma",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 2 000 à 4 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Eric Arnoux. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/560801300",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "ARKEMA FRANCE",
+    "localite": "Puteaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (industrie manufacturière, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Armand Ajdari. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319632790",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "COFIROUTE",
+    "localite": "Nanterre",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (transport / logistique, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Marc Bouron. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552115891",
+    "requete": "api-entreprises:GE:transport / logistique"
+  },
+  {
+    "entreprise": "ASSOCIATION POUR L'ACCOMPAGNEMENT LE MIEUX-ETRE ET LE LOGEMENT DES ISOLES (AMLI)",
+    "localite": "Metz",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (hôtellerie / restauration, 250 à 499 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775618929",
+    "requete": "api-entreprises:GE:hôtellerie / restauration"
+  },
+  {
+    "entreprise": "FONCIA TERRES DE PROVENCE",
+    "localite": "Aix-En-Provence",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (immobilier, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Anick Chaumartin. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/327918231",
+    "requete": "api-entreprises:GE:immobilier"
+  },
+  {
+    "entreprise": "BIOGROUP PARIS OUEST",
+    "localite": "Neuilly-Sur-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (santé / médico-social, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Najwa Saab (Chami). ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/403093206",
+    "requete": "api-entreprises:GE:santé / médico-social"
+  },
+  {
+    "entreprise": "KFC FRANCE SAS",
+    "localite": "Puteaux",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (services aux entreprises, grand effectif) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Isabelle Herman. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/380744870",
+    "requete": "api-entreprises:GE:services aux entreprises"
+  },
+  {
+    "entreprise": "BUT INTERNATIONAL",
+    "localite": "Emerainville",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (commerce / distribution, 5 000 à 9 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Ernst & Young Et Autres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/722041860",
+    "requete": "api-entreprises:GE:commerce / distribution"
+  },
+  {
+    "entreprise": "VYV3 NORMANDIE-MUTUALITE FRANCAISE NORMANDIE SERVICE DE SOINS ET D'ACCOMPAGNEMENT MUTUALISTES (SSAM) (VYV3 NORMANDIE)",
+    "localite": "Rouen",
+    "telephone": "",
+    "email": "",
+    "categorie": "Grand compte (GE) — cible transformation digitale",
+    "signal_alerte": "Grand compte (GE) (banque / assurance, 1 000 à 1 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794994277",
+    "requete": "api-entreprises:GE:banque / assurance"
+  },
+  {
+    "entreprise": "EQIOM",
+    "localite": "Courbevoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (industrie manufacturière, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Romain Mille. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/377917067",
+    "requete": "api-entreprises:GE:industrie manufacturière"
+  },
+  {
+    "entreprise": "XELIANS ARCHIVAGE (ARCHIVECO - LOCARCHIVES)",
+    "localite": "Villeneuve-La-Garenne",
+    "telephone": "",
+    "email": "",
+    "categorie": "ETI (taille intermédiaire) — cible transformation digitale",
+    "signal_alerte": "ETI (taille intermédiaire) (transport / logistique, 500 à 999 salariés) : budgets de transformation digitale conséquents, cible pour prestation web/SaaS via la DSI ou appels d'offres. Point d'entrée dirigeant : Jerome Pariscoat. ⚠ Cycle de vente long (multi-décideurs).",
+    "source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/324847094",
+    "requete": "api-entreprises:GE:transport / logistique"
   }
 ]

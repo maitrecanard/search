@@ -83,8 +83,8 @@ séparé**. Source : **API officielle Recherche d'entreprises**
 (`recherche-entreprises.api.gouv.fr`, données SIRENE), filtrée sur les
 catégories **GE (Grande Entreprise) + ETI (Entreprise de Taille Intermédiaire)**.
 
-- **200 entreprises** : **120 GE + 80 ETI**, réparties sur **86 communes**
-- **8 secteurs acheteurs de digital** équilibrés (25 chacun) : commerce/distribution,
+- **500 entreprises** : **261 GE + 239 ETI**, réparties sur **201 communes**
+- **8 secteurs acheteurs de digital** équilibrés (~63 chacun) : commerce/distribution,
   banque/assurance, industrie, transport/logistique, hôtellerie/restauration,
   immobilier, santé, services aux entreprises
 - Section J (information-communication : **ESN/éditeurs = concurrents**) volontairement **exclue**
