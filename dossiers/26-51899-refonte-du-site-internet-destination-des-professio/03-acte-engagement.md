@@ -7,7 +7,7 @@
 
 ## Article 1 — Contractant
 Je soussigné(e) **Mathieu Siaudeau** (TechCare Solutions), micro-entreprise,
-À COMPLÉTER, SIRET **À COMPLÉTER**, APE 62.01Z, TVA non applicable, art. 293 B du CGI — mathieusiaudeau@gmail.com · À COMPLÉTER.
+À COMPLÉTER (Valdivienne, 86), SIRET **922 818 547 00015**, APE 62.01Z, TVA non applicable, art. 293 B du CGI — mathieusiaudeau@gmail.com · À COMPLÉTER.
 Candidat individuel.
 
 ## Article 2 — Engagement
@@ -34,7 +34,7 @@ Titulaire : Mathieu Siaudeau · IBAN À COMPLÉTER · BIC À COMPLÉTER *(joindr
 ☑ Néant *(adapter si cotraitance — joindre DC4)*.
 
 ---
-Fait à À COMPLÉTER, le ……/……/……
+Fait à Valdivienne, le ……/……/……
 **Signature** *(électronique si exigée)* : Mathieu Siaudeau
 
 > Partie réservée au pouvoir adjudicateur — ne rien remplir.

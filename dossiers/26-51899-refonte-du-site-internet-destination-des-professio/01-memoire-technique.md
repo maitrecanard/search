@@ -9,9 +9,9 @@
 > ⚠️ Sections `‹CCTP›` à confirmer après téléchargement du DCE.
 
 ## 0. Candidat
-**Mathieu Siaudeau** (TechCare Solutions) — micro-entreprise · SIRET À COMPLÉTER
-À COMPLÉTER · mathieusiaudeau@gmail.com · À COMPLÉTER · 
-Compétences : À COMPLÉTER (ex. JavaScript/TypeScript, React, Node.js, PostgreSQL)
+**Mathieu Siaudeau** (TechCare Solutions) — micro-entreprise · SIRET 922 818 547 00015
+À COMPLÉTER (Valdivienne, 86) · mathieusiaudeau@gmail.com · À COMPLÉTER · 
+Compétences : Laravel, React, Redis, MySQL
 
 ## 1. Compréhension du besoin
 Comité Régional du Tourisme Centre-Val de Loire souhaite « Refonte du site internet à destination des professionnels du tourisme ». Au-delà de la modernisation, les enjeux
@@ -42,7 +42,7 @@ notification (cadrage → maquettes → dev → recette → RGAA → mise en lig
 *(Caler sur le `‹CCTP›`.)*
 
 ## 6. Compétences & références
-Profil : À COMPLÉTER (ex. JavaScript/TypeScript, React, Node.js, PostgreSQL). Références comparables : À COMPLÉTER (2-3 projets : client, objet, techno, résultat).
+Profil : Laravel, React, Redis, MySQL. Références comparables : Charlotte — application métier pour l'entreprise MUXEN (Laravel/React) ; Freendzy — plateforme SaaS pour la société Freendzy (Laravel/React) ; Révolution Pro — site vitrine.
 
 ## 7. Maintenance & réversibilité
 Garantie de 12 mois ; TMA en option ; **réversibilité** (code +
