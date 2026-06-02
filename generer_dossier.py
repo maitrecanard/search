@@ -20,6 +20,7 @@ import datetime as _dt
 import json
 import os
 import re
+import shutil
 import sys
 
 import requests
@@ -179,6 +180,30 @@ def build(rec: dict, profil: dict, generated_at: str) -> str:
     return folder
 
 
+def archive_expired(open_idwebs: set) -> int:
+    """Déplace dans dossiers/_archive/ les dossiers dont le marché n'est plus
+    ouvert (idweb absent de la liste courante). Préserve le travail éventuel ;
+    _archive est ignoré par git."""
+    if not os.path.isdir(OUT_DIR):
+        return 0
+    archive = os.path.join(OUT_DIR, "_archive")
+    moved = 0
+    for name in os.listdir(OUT_DIR):
+        path = os.path.join(OUT_DIR, name)
+        if name == "_archive" or not os.path.isdir(path):
+            continue
+        parts = name.split("-")
+        idweb = "-".join(parts[:2]) if len(parts) >= 2 else name
+        if idweb not in open_idwebs:
+            os.makedirs(archive, exist_ok=True)
+            dest = os.path.join(archive, name)
+            if os.path.exists(dest):
+                shutil.rmtree(dest)
+            shutil.move(path, dest)
+            moved += 1
+    return moved
+
+
 def main(argv) -> int:
     if not argv:
         print(__doc__)
@@ -201,6 +226,12 @@ def main(argv) -> int:
     for rec in recs:
         folder = build(rec, profil, generated_at)
         print(f"✅ {folder}")
+
+    # En mode --open, archive les dossiers des marchés qui ne sont plus ouverts.
+    if argv[0] == "--open":
+        moved = archive_expired({r.get("idweb") for r in recs})
+        if moved:
+            print(f"🗄️  {moved} dossier(s) expiré(s) archivé(s) dans {OUT_DIR}/_archive")
     return 0
 
 

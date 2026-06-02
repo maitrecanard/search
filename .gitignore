@@ -1,4 +1,5 @@
 *.pyc
 __pycache__/
+dossiers/_archive/
 mapa_refresh.log
 profil.json
