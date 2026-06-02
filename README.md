@@ -23,9 +23,12 @@ Un moteur de prospection a été développé pour répondre au cahier des charge
 ci-dessus. Le livrable demandé — le **fichier `result`** — est fourni en deux
 formats : [`result.csv`](result.csv) et [`result.json`](result.json).
 
-Un **second fichier bonus** cible les **grands comptes** :
-[`result_grands_comptes.csv`](result_grands_comptes.csv) et
-[`result_grands_comptes.json`](result_grands_comptes.json) (voir section dédiée).
+Deux **fichiers bonus** complètent le livrable :
+- **Grands comptes** : [`result_grands_comptes.csv`](result_grands_comptes.csv) /
+  [`.json`](result_grands_comptes.json) ;
+- **Besoins logiciels avérés** (appels d'offres) :
+  [`result_besoins_logiciels.csv`](result_besoins_logiciels.csv) /
+  [`.json`](result_besoins_logiciels.json).
 
 ## ✅ Fonctionnalités demandées et état
 
@@ -105,6 +108,32 @@ catégories **GE (Grande Entreprise) + ETI (Entreprise de Taille Intermédiaire)
 > téléphone/email direct n'est pas exposé par l'API (contact via DSI /
 > dirigeant), donc ces colonnes restent vides (« si possible »).
 
+## 🎯 Bonus — Besoins logiciels *avérés* (`result_besoins_logiciels`)
+
+⚠️ **Limite des deux fichiers ci-dessus** : pour les PME comme pour les grands
+comptes, le besoin logiciel est **inféré** (solvabilité avérée, mais intention
+non prouvée). Ce troisième fichier corrige ce point en partant de besoins
+**réellement exprimés** : les **appels d'offres publics** (source **BOAMP**,
+open data). L'objet du marché EST le signal — un organisme qui publie un appel
+d'offres pour un site / une application / une plateforme / un logiciel a un
+besoin **avéré, daté et budgété**.
+
+- **100 besoins logiciels distincts** (100 objets uniques), **54 localités**
+- **79 % contactables** : **52** avec téléphone, **71** avec email — coordonnées
+  réelles de l'acheteur (ex. `marches@departement06.fr`)
+- `signal_alerte` = l'**objet exact du marché** + date de parution + date limite
+- `source_url` = lien direct vers l'avis BOAMP (cahier des charges + contact)
+- Exemples : Réalisation du site de la Ville d'Orvault, refonte du site du
+  Département des Alpes-Maritimes, solution logicielle CMA France…
+
+> ℹ️ **Honnêteté sur les données** : les acheteurs sont **publics**
+> (collectivités, hôpitaux, CMA…) ; le closing = répondre à l'appel d'offres.
+> Les avis exploités datent de **2023** (les avis 2025+ au format *eForms*
+> n'exposent plus les coordonnées de l'acheteur dans l'open data) : le besoin
+> est donc **prouvé** et l'organisme **joignable**, mais l'AO précis peut être
+> clôturé — ce sont des organisations à **investissement digital démontré**. Le
+> contact des avis récents reste accessible via le lien `source_url`.
+
 ## 🔎 Moteurs de recherche utilisés
 
 Le README autorise « DuckDuckGo **ou tout autre outil de recherche** ». En
@@ -129,10 +158,12 @@ preuve que la voie « moteur de recherche » fonctionne hors throttling.
 Développement → vérification → **tests unitaires** → exécution → correction →
 régression, à chaque itération :
 
-- **43 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
+- **51 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
   moteurs (DDG html/lite, Mojeek), extraction (email, téléphone FR, localité,
   nom d'entreprise), Overpass (parsing, requête QL, dédup), grands comptes (API
-  entreprises, secteurs, dédup SIREN), pipeline (cap par ville), écriture CSV/JSON.
+  entreprises, secteurs, dédup SIREN), besoins BOAMP (3 schémas IDENTITE/
+  FNSimple/EFORMS, anti-faux-positifs contact), pipeline (cap par ville),
+  écriture CSV/JSON.
 - Corrections issues de l'exécution réelle : rate-limiting (back-off +
   circuit-breaker), bascule de moteur, requête Overpass (`;` manquant,
   instance régionale écartée), dédup des fiches sans site, répartition
