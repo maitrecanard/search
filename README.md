@@ -23,7 +23,10 @@ Un moteur de prospection a été développé pour répondre au cahier des charge
 ci-dessus. Le livrable demandé — le **fichier `result`** — est fourni en deux
 formats : [`result.csv`](result.csv) et [`result.json`](result.json).
 
-Deux **fichiers bonus** complètent le livrable :
+Plusieurs **fichiers bonus** complètent le livrable :
+- ⭐ **Clients finaux tech** (cible freelance recommandée) :
+  [`result_clients_tech.csv`](result_clients_tech.csv) /
+  [`.json`](result_clients_tech.json) ;
 - **Grands comptes** : [`result_grands_comptes.csv`](result_grands_comptes.csv) /
   [`.json`](result_grands_comptes.json) ;
 - **Besoins logiciels avérés** (appels d'offres) :
@@ -83,6 +86,35 @@ explicite besoin + moyens + closing.
 
 La colonne **`secteur`** est commune aux deux fichiers : profession pour les PME,
 secteur d'activité (NAF) pour les grands comptes.
+
+## ⭐ Cible freelance — Clients finaux tech (`result_clients_tech`)
+
+**Objectif réel d'un freelance** : décrocher des contrats sur des projets
+coûteux auprès de **clients finaux** (pas d'ESN intermédiaire, pas de job board
+où l'on postule). La cible idéale = une entreprise qui développe son **propre
+produit logiciel** : besoin de dev **récurrent**, **budget**, et **décideur
+joignable en direct** (cycle de vente court).
+
+Source : **API Recherche d'entreprises** (SIRENE), filtrée sur les codes NAF
+d'**édition de logiciels / SaaS / plateformes** — en **excluant les codes
+d'ESN/conseil** (62.01Z, 62.02A, 78.xx) pour ne garder que des **clients
+finaux**.
+
+- **100 éditeurs / scale-ups tech**, **60 communes**, PME/ETI de **20 à 499
+  salariés** (assez de budget, assez petites pour être approchables)
+- **6 secteurs produit** équilibrés : éditeurs applicatifs / système / outils,
+  jeux vidéo, SaaS-data, plateformes web
+- **66 % avec décideur nommé** (`signal_alerte`) pour l'**outreach direct**
+  (LinkedIn/email) — les commissaires aux comptes sont exclus
+- Exemples : Sorare, Coyote System, Playwing, Linkeo, Aplim, JVS-Mairistem…
+
+> ℹ️ **Pourquoi pas de tél/email en colonne** : l'API SIRENE n'expose pas le
+> contact. La porte d'entrée est le **dirigeant nommé** + le **lien annuaire**
+> (`source_url`) → on trouve le décideur sur LinkedIn / le site corp. Pour un
+> freelance, c'est le bon canal (approche directe et personnalisée), pas un
+> mail générique.
+>
+> 🔧 Régénérer : `python3 main.py --source clients --target 100 --out result_clients_tech`
 
 ## 🏢 Bonus — Grands comptes (`result_grands_comptes`)
 
@@ -161,7 +193,7 @@ preuve que la voie « moteur de recherche » fonctionne hors throttling.
 Développement → vérification → **tests unitaires** → exécution → correction →
 régression, à chaque itération :
 
-- **51 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
+- **65 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
   moteurs (DDG html/lite, Mojeek), extraction (email, téléphone FR, localité,
   nom d'entreprise), Overpass (parsing, requête QL, dédup), grands comptes (API
   entreprises, secteurs, dédup SIREN), besoins BOAMP (3 schémas IDENTITE/
