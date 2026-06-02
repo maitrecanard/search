@@ -150,8 +150,14 @@ def build(rec: dict, profil: dict, generated_at: str) -> str:
     tva_montant = "—" if franchise else f"{_fmt(round(total_ht*0.2))} €"
     total_ttc = total_ht if franchise else round(total_ht * 1.2)
 
+    denom = str(profil.get("denomination", "")).strip()
+    # On n'affiche le nom commercial que s'il est renseigné (et différent du nom).
+    denom_suffix = (f" ({denom})" if denom and "optionnel" not in denom.lower()
+                    and denom != profil.get("candidat_nom") else "")
+
     ctx = dict(profil)
     ctx.update({
+        "denomination_suffix": denom_suffix,
         "acheteur": rec.get("nomacheteur") or "?",
         "objet": (rec.get("objet") or "").replace("\n", " ").strip(),
         "idweb": rec.get("idweb") or "",

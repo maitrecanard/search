@@ -6,8 +6,8 @@
 *(Si un AE/ATTRI1 est imposé dans le DCE, recopie ces infos dedans.)*
 
 ## Article 1 — Contractant
-Je soussigné(e) **Prénom NOM**, micro-entreprise, 12 rue Exemple, 00000 Ville,
-SIRET **000 000 000 00000**, APE 62.01Z, TVA non applicable, art. 293 B du CGI — prenom.nom@exemple.fr · 06 00 00 00 00.
+Je soussigné(e) **Mathieu Siaudeau** (TechCare Solutions), micro-entreprise,
+À COMPLÉTER, SIRET **À COMPLÉTER**, APE 62.01Z, TVA non applicable, art. 293 B du CGI — mathieusiaudeau@gmail.com · À COMPLÉTER.
 Candidat individuel.
 
 ## Article 2 — Engagement
@@ -16,16 +16,16 @@ exécuter les prestations conformément à mon offre (mémoire technique + DPGF
 joints), aux prix ci-après.
 
 ## Article 3 — Prix
-- Montant **HT** : **40 000 €** (en lettres : ‹à compléter›)
+- Montant **HT** : **48 000 €** (en lettres : ‹à compléter›)
 - TVA : —
-- Montant **TTC** : **40 000 €**
+- Montant **TTC** : **48 000 €**
 
 ## Article 4 — Délai
 Délai global d'exécution : **18 semaines** à compter de la
 notification. *(Confirmer le délai du RC/CCTP.)*
 
 ## Article 5 — Compte à créditer
-Titulaire : Prénom NOM · IBAN FR76 0000 0000 0000 0000 0000 000 · BIC XXXXXXXX *(joindre un RIB)*.
+Titulaire : Mathieu Siaudeau · IBAN À COMPLÉTER · BIC À COMPLÉTER *(joindre un RIB)*.
 
 ## Article 6 — Validité de l'offre
 120 jours à compter de la date limite de remise.
@@ -34,7 +34,7 @@ Titulaire : Prénom NOM · IBAN FR76 0000 0000 0000 0000 0000 000 · BIC XXXXXXX
 ☑ Néant *(adapter si cotraitance — joindre DC4)*.
 
 ---
-Fait à Ville, le ……/……/……
-**Signature** *(électronique si exigée)* : Prénom NOM
+Fait à À COMPLÉTER, le ……/……/……
+**Signature** *(électronique si exigée)* : Mathieu Siaudeau
 
 > Partie réservée au pouvoir adjudicateur — ne rien remplir.

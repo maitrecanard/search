@@ -9,9 +9,9 @@
 > ⚠️ Sections `‹CCTP›` à confirmer après téléchargement du DCE.
 
 ## 0. Candidat
-**Prénom NOM** — micro-entreprise · SIRET 000 000 000 00000
-12 rue Exemple, 00000 Ville · prenom.nom@exemple.fr · 06 00 00 00 00 · https://exemple.fr
-Compétences : JavaScript/TypeScript, React, Node.js, PostgreSQL
+**Mathieu Siaudeau** (TechCare Solutions) — micro-entreprise · SIRET À COMPLÉTER
+À COMPLÉTER · mathieusiaudeau@gmail.com · À COMPLÉTER · 
+Compétences : À COMPLÉTER (ex. JavaScript/TypeScript, React, Node.js, PostgreSQL)
 
 ## 1. Compréhension du besoin
 Comité Régional du Tourisme Centre-Val de Loire souhaite « Refonte du site internet à destination des professionnels du tourisme ». Au-delà de la modernisation, les enjeux
@@ -42,7 +42,7 @@ notification (cadrage → maquettes → dev → recette → RGAA → mise en lig
 *(Caler sur le `‹CCTP›`.)*
 
 ## 6. Compétences & références
-Profil : JavaScript/TypeScript, React, Node.js, PostgreSQL. Références comparables : ‹2-3 projets comparables : client, objet, techno, résultat›.
+Profil : À COMPLÉTER (ex. JavaScript/TypeScript, React, Node.js, PostgreSQL). Références comparables : À COMPLÉTER (2-3 projets : client, objet, techno, résultat).
 
 ## 7. Maintenance & réversibilité
 Garantie de 12 mois ; TMA en option ; **réversibilité** (code +

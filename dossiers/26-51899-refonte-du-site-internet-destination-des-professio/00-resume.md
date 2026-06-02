@@ -8,7 +8,7 @@
 - **Procédure** : Procédure adaptée (MAPA) · **Réf.** : idweb 26-51899
 - ⏰ **Date limite de remise** : **2026-06-24 12:00**
 - **Avis BOAMP** : https://www.boamp.fr/pages/avis/?q=idweb:26-51899
-- **Montant proposé** : **40 000 € HT** (TJM 500 €/j)
+- **Montant proposé** : **48 000 € HT** (TJM 600 €/j)
 
 ## Contenu de ce dossier
 1. `01-memoire-technique.md` — à compléter avec le CCTP

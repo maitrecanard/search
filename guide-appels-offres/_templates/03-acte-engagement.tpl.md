@@ -6,8 +6,8 @@
 *(Si un AE/ATTRI1 est imposé dans le DCE, recopie ces infos dedans.)*
 
 ## Article 1 — Contractant
-Je soussigné(e) **{{candidat_nom}}**, {{candidat_forme}}, {{adresse}},
-SIRET **{{siret}}**, APE {{ape}}, {{tva}} — {{email}} · {{tel}}.
+Je soussigné(e) **{{candidat_nom}}**{{denomination_suffix}}, {{candidat_forme}},
+{{adresse}}, SIRET **{{siret}}**, APE {{ape}}, {{tva}} — {{email}} · {{tel}}.
 Candidat individuel.
 
 ## Article 2 — Engagement

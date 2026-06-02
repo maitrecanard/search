@@ -9,7 +9,7 @@
 > ⚠️ Sections `‹CCTP›` à confirmer après téléchargement du DCE.
 
 ## 0. Candidat
-**{{candidat_nom}}** — {{candidat_forme}} · SIRET {{siret}}
+**{{candidat_nom}}**{{denomination_suffix}} — {{candidat_forme}} · SIRET {{siret}}
 {{adresse}} · {{email}} · {{tel}} · {{site}}
 Compétences : {{stack}}
 

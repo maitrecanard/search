@@ -1,6 +1,7 @@
 {
   "_comment": "Copie ce fichier en profil.json et remplis tes infos. profil.json est ignoré par git (.gitignore) pour ne pas publier tes données.",
   "candidat_nom": "Prénom NOM",
+  "denomination": "Nom commercial (optionnel, ex. Ma Société)",
   "candidat_forme": "micro-entreprise",
   "siret": "000 000 000 00000",
   "ape": "62.01Z",
