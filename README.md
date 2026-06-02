@@ -151,8 +151,12 @@ open data). L'objet du marché EST le signal — un organisme qui publie un appe
 d'offres pour un site / une application / une plateforme / un logiciel a un
 besoin **avéré, daté et budgété**.
 
-- **100 besoins logiciels distincts** (100 objets uniques), **55 localités**
-- **100 % d'avis 2026** (récents/en cours), triés du plus récent au plus ancien
+- **73 besoins logiciels distincts**, **MAPA uniquement** (procédure adaptée =
+  accessible à un freelance ; les grosses procédures formalisées sont exclues)
+- Avis **2024-2026** (récents), triés du plus récent ; **avis attribués exclus**
+- 📎 **Comment répondre** : voir le dossier
+  [`guide-appels-offres/`](guide-appels-offres/) — modèle de **mémoire technique**
+  + **checklist** des pièces. Régénérer : `--source besoins --mapa-only`
 - `signal_alerte` = l'**objet exact du marché** + date de parution + date limite
 - `source_url` = lien direct vers l'avis BOAMP (cahier des charges + contact acheteur)
 - Exemples (2026) : Création du site internet de l'Hôpital Nord Franche-Comté,
@@ -194,7 +198,7 @@ preuve que la voie « moteur de recherche » fonctionne hors throttling.
 Développement → vérification → **tests unitaires** → exécution → correction →
 régression, à chaque itération :
 
-- **66 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
+- **67 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
   moteurs (DDG html/lite, Mojeek), extraction (email, téléphone FR, localité,
   nom d'entreprise), Overpass (parsing, requête QL, dédup), grands comptes (API
   entreprises, secteurs, dédup SIREN), besoins BOAMP (3 schémas IDENTITE/

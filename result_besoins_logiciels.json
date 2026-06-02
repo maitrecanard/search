@@ -1,60 +1,5 @@
 [
   {
-    "entreprise": "CESE.",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « maintenance site internet ». Appel d'offres publié le 2026-06-01, réponse avant le 2026-06-22T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-53688",
-    "requete": "boamp:26-53688"
-  },
-  {
-    "entreprise": "CESE.",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Plateforme numérique de participations citoyennes ». Appel d'offres publié le 2026-05-31, réponse avant le 2026-06-29T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-53185",
-    "requete": "boamp:26-53185"
-  },
-  {
-    "entreprise": "HOPITAL NORD FRANCHE-COMTE",
-    "localite": "Territoire de Belfort",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Création du site internet ». Appel d'offres publié le 2026-05-31, réponse avant le 2026-06-29T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-52937",
-    "requete": "boamp:26-52937"
-  },
-  {
-    "entreprise": "Service Achats Responsables",
-    "localite": "Dép. 8",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « REFONTE DU SITE INSTITUTIONNEL DE LA VILLE DE CHARLEVILLE-MEZIERES WWW.CHARLEVILLE-MEZIERES.FR  ET CONSEIL EN ACCESSIBILITE NUMERIQUE-. ». Appel d'offres publié le 2026-05-29, réponse avant le 2026-07-15T15:30:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-52050",
-    "requete": "boamp:26-52050"
-  },
-  {
-    "entreprise": "ACTION LOGEMENT IMMOBILIER",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Mise à disposition, intégration et maintien en conditions opérationnelles d'une solution logicielle de gestion de la relation clients (CRM), fournisseurs et partenaires pour le compte d'un groupement ». Appel d'offres publié le 2026-05-28, réponse avant le 2026-06-25T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-51649",
-    "requete": "boamp:26-51649"
-  },
-  {
     "entreprise": "Comité Régional du Tourisme Centre-Val de Loire",
     "localite": "Loiret",
     "telephone": "",
@@ -64,17 +9,6 @@
     "signal_alerte": "Besoin exprimé : « Refonte du site internet à destination des professionnels du tourisme ». Appel d'offres publié le 2026-05-27, réponse avant le 2026-06-24T12:00:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-51899",
     "requete": "boamp:26-51899"
-  },
-  {
-    "entreprise": "CHU CAEN NORMANDIE",
-    "localite": "Calvados",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Maintenance évolutive du site WEB de l’Espace de Réflexion Ethique de Normandie (EREN) et prestations associées. ». Appel d'offres publié le 2026-05-26, réponse avant le 2026-06-16T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-51296",
-    "requete": "boamp:26-51296"
   },
   {
     "entreprise": "GIP Genopole",
@@ -88,39 +22,6 @@
     "requete": "boamp:26-50513"
   },
   {
-    "entreprise": "VILLE SAINTES",
-    "localite": "Saintes",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Projets numériques - relance du lot n°3 « Refonte du Site Internet du Golf Louis-Rouyer-Guillet » ». Appel d'offres publié le 2026-05-20. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-49830",
-    "requete": "boamp:26-49830"
-  },
-  {
-    "entreprise": "Département de la Dordogne",
-    "localite": "Dordogne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Fourniture de ressources numériques en ligne pour la médiathèque numérique de la Dordogne et la future plateforme culturelle ». Appel d'offres publié le 2026-05-20. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-49082",
-    "requete": "boamp:26-49082"
-  },
-  {
-    "entreprise": "MUSEE NATIONAL PICASSO PARIS",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « La présente consultation a pour objet la maintenance du site internet du musée national Picasso Paris ». Appel d'offres publié le 2026-05-20, réponse avant le 2026-06-22T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-49258",
-    "requete": "boamp:26-49258"
-  },
-  {
     "entreprise": "CMAR Pays de Loire",
     "localite": "Loire-Atlantique",
     "telephone": "",
@@ -130,28 +31,6 @@
     "signal_alerte": "Besoin exprimé : « CMA PdL, refonte du site internet ». Appel d'offres publié le 2026-05-18, réponse avant le 2026-06-19T12:00:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48875",
     "requete": "boamp:26-48875"
-  },
-  {
-    "entreprise": "Préfecture de la Martinique",
-    "localite": "Martinique",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Site internet de comparaison des prix de produits de consommation (rectificatif) ». Appel d'offres publié le 2026-05-15. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48504",
-    "requete": "boamp:26-48504"
-  },
-  {
-    "entreprise": "AGENCE TECHNIQUE DE L'INFORMATION SUR L'HOSPITALISATION",
-    "localite": "Rhône",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Conception et réalisation du nouveau site internet de l’Agence Technique de l'Information sur l'Hospitalisation (refonte) et accompagnement dans l’exploitation du site (maintenance) ». Appel d'offres publié le 2026-05-13. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-47582",
-    "requete": "boamp:26-47582"
   },
   {
     "entreprise": "SYNDICAT MIXTE DES GORGES DU GARDON",
@@ -176,50 +55,6 @@
     "requete": "boamp:26-47737"
   },
   {
-    "entreprise": "Neoma Reims",
-    "localite": "Reims",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition d'une solution logicielle d'évaluation collaborative ». Appel d'offres publié le 2026-05-11, réponse avant le 2026-06-11T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-46932",
-    "requete": "boamp:26-46932"
-  },
-  {
-    "entreprise": "PARIS SACLAY CANCER CLUSTER",
-    "localite": "Val-de-Marne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Développement d'un portail web de faisabilité et de demande d'accès aux données dans le cadre du projet PSCC Data de guichet fédéré de données de vie réelle en oncologie ». Appel d'offres publié le 2026-05-08, réponse avant le 2026-06-08T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-46260",
-    "requete": "boamp:26-46260"
-  },
-  {
-    "entreprise": "SYNDICAT MIXTE AGEDI",
-    "localite": "Puy-de-Dôme",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Développement d'une solution logicielle dédiée à la gestion des politiques sociales des départements ». Appel d'offres publié le 2026-05-08. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-45983",
-    "requete": "boamp:26-45983"
-  },
-  {
-    "entreprise": "METROPOLE NICE CÔTE D'AZUR",
-    "localite": "Dép. 6",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « 25N0915 - Développement, paramétrage et prestations complémentaires sur le logiciel HR ACCESS ». Appel d'offres publié le 2026-05-07, réponse avant le 2026-06-18T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-45787",
-    "requete": "boamp:26-45787"
-  },
-  {
     "entreprise": "Université Toulouse  - Capitole",
     "localite": "Haute-Garonne",
     "telephone": "",
@@ -229,17 +64,6 @@
     "signal_alerte": "Besoin exprimé : « L'accord-cadre a pour objet des prestations de tierce maintenance applicative pour le site web institutionnel de TSM. ». Appel d'offres publié le 2026-05-07, réponse avant le 2026-06-04T12:00:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-46139",
     "requete": "boamp:26-46139"
-  },
-  {
-    "entreprise": "Conseil départemental d'Indre et Loire",
-    "localite": "Tours",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Conception Et Realisation Du Site Internet Institutionnel Du Conseil Departemental D'Indre Et Loire, Hebergement, Maintien En Condition Operationnelle Et Prestations Complementaire ». Appel d'offres publié le 2026-05-07, réponse avant le 2026-06-11T16:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-46474",
-    "requete": "boamp:26-46474"
   },
   {
     "entreprise": "CFDC de l'AP-HP",
@@ -253,28 +77,6 @@
     "requete": "boamp:26-46173"
   },
   {
-    "entreprise": "VILLE DE POITIERS",
-    "localite": "Vienne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Refonte du site internet de la Ville de Poitiers, hébergement, maintenance et évolution ». Appel d'offres publié le 2026-05-05, réponse avant le 2026-05-29T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-44523",
-    "requete": "boamp:26-44523"
-  },
-  {
-    "entreprise": "Nantes Métropole",
-    "localite": "Nantes",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition et mise en oeuvre d'un portail web de gestion et de mise à disposition de ressources documentaires dématérialisées pour les abonnés des bibliothèques du service commun de la lecture publiq ». Appel d'offres publié le 2026-04-30, réponse avant le 2026-05-29T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-43788",
-    "requete": "boamp:26-43788"
-  },
-  {
     "entreprise": "CAVIMAC",
     "localite": "Seine-Saint-Denis",
     "telephone": "",
@@ -284,28 +86,6 @@
     "signal_alerte": "Besoin exprimé : « Tierce maintenance applicative, hébergement et exploitation du site internet des assurés de la CAVIMAC ». Appel d'offres publié le 2026-04-30, réponse avant le 2026-06-01T12:00:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-43968",
     "requete": "boamp:26-43968"
-  },
-  {
-    "entreprise": "Département de la Haute-Savoie",
-    "localite": "Haute-Savoie",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Mission d'assistance à maîtrise d'ouvrage pour accompagner la refonte du portail web biblio7374.fr ». Appel d'offres publié le 2026-04-29. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-42810",
-    "requete": "boamp:26-42810"
-  },
-  {
-    "entreprise": "ACADEMIE FRANCAISE",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « REFONTE DU SITE INTERNET DE L’ACADÉMIE FRANÇAISE – HÉBERGEMENT – MAINTENANCE ». Appel d'offres publié le 2026-04-29, réponse avant le 2026-06-03T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-43374",
-    "requete": "boamp:26-43374"
   },
   {
     "entreprise": "Fondation de l'AP-HP",
@@ -319,116 +99,6 @@
     "requete": "boamp:26-42301"
   },
   {
-    "entreprise": "Territoire D'Energie Var",
-    "localite": "Brignoles",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Maintenance, Hébergement et Développement du Site Internet de Te83 ». Appel d'offres publié le 2026-04-27, réponse avant le 2026-05-26T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-42408",
-    "requete": "boamp:26-42408"
-  },
-  {
-    "entreprise": "Association ASF Vacances",
-    "localite": "Seine-Saint-Denis",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition et mise en œuvre d'une solution ERP en mode SaaS avec site web marchand et application mobile ». Appel d'offres publié le 2026-04-26, réponse avant le 2026-06-05T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-42106",
-    "requete": "boamp:26-42106"
-  },
-  {
-    "entreprise": "VILLE DE POITIERS",
-    "localite": "Vienne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Refonte du site internet de la Ville de Poitiers, hébergement, maintenance et évolution ». Appel d'offres publié le 2026-04-25, réponse avant le 2026-05-26T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-41524",
-    "requete": "boamp:26-41524"
-  },
-  {
-    "entreprise": "EPA Shom",
-    "localite": "Brest",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Mission d’assistance à maîtrise d'ouvrage pour l'opération de refonte de la sous station principale et des réseaux de distribution de chauffage sur le site du Shom à Brest. ». Appel d'offres publié le 2026-04-24, réponse avant le 2026-06-10T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-41838",
-    "requete": "boamp:26-41838"
-  },
-  {
-    "entreprise": "DEPARTEMENT DE L'ALLIER",
-    "localite": "Dép. 3",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Refonte du site internet du Département de l'Allier ». Appel d'offres publié le 2026-04-23, réponse avant le 2026-05-27T14:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-40929",
-    "requete": "boamp:26-40929"
-  },
-  {
-    "entreprise": "Collectivite Territoriale De Guyane",
-    "localite": "Cayenne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Développement, alimentation, animation, maintenance du site internet « europe-guyane.fr \" ». Appel d'offres publié le 2026-04-22. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-41028",
-    "requete": "boamp:26-41028"
-  },
-  {
-    "entreprise": "CIVIS",
-    "localite": "La Réunion",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Conception, réalisation, hébergement et maintenance du site internet de la CIVIS ». Appel d'offres publié le 2026-04-21. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-39889",
-    "requete": "boamp:26-39889"
-  },
-  {
-    "entreprise": "DEPAFI",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Mise à disposition d’une plateforme numérique multi-déménageurs et prestations associées ». Appel d'offres publié le 2026-04-21, réponse avant le 2026-05-19T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-39757",
-    "requete": "boamp:26-39757"
-  },
-  {
-    "entreprise": "FC BREST",
-    "localite": "Finistère",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « prestation de plateforme numérique de mise en relation des administrés du MINARM et de la GN avec des sociétés de déménagement dans le cadre d’une mobilité professionnelle avec changement de résidence ». Appel d'offres publié le 2026-04-21, réponse avant le 2026-05-07T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-39758",
-    "requete": "boamp:26-39758"
-  },
-  {
-    "entreprise": "SPL LE MANS EVENEMENTS",
-    "localite": "Sarthe",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Refonte et création du site internet de l'Office de Tourisme et le Bureau des Congrès de le Mans Métropole ». Appel d'offres publié le 2026-04-20. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-39987",
-    "requete": "boamp:26-39987"
-  },
-  {
     "entreprise": "Mairie de Lieusaint",
     "localite": "Seine-et-Marne",
     "telephone": "",
@@ -438,50 +108,6 @@
     "signal_alerte": "Besoin exprimé : « CONCEPTION ERGONOMIQUE, GRAPHIQUE, TECHNIQUE et FONCTIONNELLE, DEVELOPPEMENT, HEBERGEMENT et MAINTENANCE DU SITE WEB  DE LA VILLE DE LIEUSAINT ». Appel d'offres publié le 2026-04-20, réponse avant le 2026-05-15T17:30:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-40018",
     "requete": "boamp:26-40018"
-  },
-  {
-    "entreprise": "Nantes Métropole",
-    "localite": "Nantes",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition et mise en œuvre d’une solution logicielle pour le Service Social du Personnel et prestations associées ». Appel d'offres publié le 2026-04-20. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-39911",
-    "requete": "boamp:26-39911"
-  },
-  {
-    "entreprise": "Ecole centrale de Lyon",
-    "localite": "Rhône",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition, mise en oeuvre et maintenance d'une solution logicielle de Gestion de la Relation Client pour Centrale Lyon ». Appel d'offres publié le 2026-04-17. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-38646",
-    "requete": "boamp:26-38646"
-  },
-  {
-    "entreprise": "Préfecture de la Martinique",
-    "localite": "Fort-De-France",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « SITE INTERNET DE COMPARAISON DES PRIX DE PRODUITS DE CONSOMMATION ». Appel d'offres publié le 2026-04-15, réponse avant le 2026-05-18T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-38593",
-    "requete": "boamp:26-38593"
-  },
-  {
-    "entreprise": "SIGERLY",
-    "localite": "Villeurbanne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition, fourniture et mise à disposition, mise en oeuvre, formation et maintenance d'une solution logicielle moderne de gestion des opérations de travaux pour le SIGERLy ». Appel d'offres publié le 2026-04-15. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-38491",
-    "requete": "boamp:26-38491"
   },
   {
     "entreprise": "DEPARTEMENT DE L'AVEYRON (CD12)",
@@ -495,116 +121,6 @@
     "requete": "boamp:26-37113"
   },
   {
-    "entreprise": "EURECOM",
-    "localite": "Dép. 6",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Refonte du site internet, Hébergement et maintenance en conditions opérationnelles ». Appel d'offres publié le 2026-04-10. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-35874",
-    "requete": "boamp:26-35874"
-  },
-  {
-    "entreprise": "ENSAIT",
-    "localite": "Nord",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « L'acquisition d'une plateforme évolutive d'un système numérique d'impression/ dépôt de fluides ». Appel d'offres publié le 2026-04-09, réponse avant le 2026-05-08T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-35259",
-    "requete": "boamp:26-35259"
-  },
-  {
-    "entreprise": "CAF de Toulouse",
-    "localite": "Haute-Garonne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Coanimation du site internet Parents31.fr et animation du réseau social Instagram du site pour le compte de la Caisse d’Allocations Familiales de la Haute-Garonne ». Appel d'offres publié le 2026-04-09, réponse avant le 2026-05-12T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-35269",
-    "requete": "boamp:26-35269"
-  },
-  {
-    "entreprise": "Comité de concertation et de coordination de l'apprentissage du BTP",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Conception et mise en oeuvre d'une plateforme numérique de positionnement des publics des organismes de formation des métiers du BTP ». Appel d'offres publié le 2026-04-05. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-34425",
-    "requete": "boamp:26-34425"
-  },
-  {
-    "entreprise": "EESC Escp Europe",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Production de vidéos destinées à une application mobile, réseau social de partage de vidéos et accompagnement stratégique - Tiktok ». Appel d'offres publié le 2026-04-04, réponse avant le 2026-05-04T14:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-34230",
-    "requete": "boamp:26-34230"
-  },
-  {
-    "entreprise": "Sarthe Culture",
-    "localite": "Sarthe",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « PRESTATIONS DE REFONTE, D'HEBERGEMENT ET DE MAINTENANCE DU SITE INTERNET DE L'ABBAYE ROYALE DE L'ÉPAU ET CREATION D'UN SECOND SITE VITRINE DEDIE AUX ESPACES HENRI PESCAROLO - RELANCE ». Appel d'offres publié le 2026-04-02. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-34310",
-    "requete": "boamp:26-34310"
-  },
-  {
-    "entreprise": "Cc Beaujolais Pierres Dorees",
-    "localite": "Anse",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Renouvellement d'une solution logicielle Sig mutualisée et prestations associées ». Appel d'offres publié le 2026-04-01, réponse avant le 2026-04-30T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-33416",
-    "requete": "boamp:26-33416"
-  },
-  {
-    "entreprise": "Nantes Métropole",
-    "localite": "Nantes",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition et mise en œuvre d’une solution logicielle pour le Service Social du Personnel et prestations associées ». Appel d'offres publié le 2026-04-01, réponse avant le 2026-04-24T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-33573",
-    "requete": "boamp:26-33573"
-  },
-  {
-    "entreprise": "Conseil Départemental Haute-Vienne",
-    "localite": "Limoges",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Réalisation, maintenance et hébergement du site internet des assistantes maternelles de la Haute-Vienne ». Appel d'offres publié le 2026-03-25, réponse avant le 2026-04-28T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-30907",
-    "requete": "boamp:26-30907"
-  },
-  {
-    "entreprise": "Préfecture de Police de Paris",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Mise à disposition d'une solution logicielle de gestion des objets trouvés, maintenance et prestations associées pour la Préfecture de police ». Appel d'offres publié le 2026-03-25, réponse avant le 2026-05-05T14:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-30429",
-    "requete": "boamp:26-30429"
-  },
-  {
     "entreprise": "INRIA",
     "localite": "Yvelines",
     "telephone": "",
@@ -616,17 +132,6 @@
     "requete": "boamp:26-30538"
   },
   {
-    "entreprise": "Ets public Musées Orsay et Orangerie",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Marché de conception et réalisation d'un portail web pour le site du Centre de ressources et de recherche du musée d'Orsay et du musée de l'Orangerie - EPMO VGE. ». Appel d'offres publié le 2026-03-20. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-28433",
-    "requete": "boamp:26-28433"
-  },
-  {
     "entreprise": "La Fémis - Ecole nationale supérieure des métiers de l'image et du son",
     "localite": "Paris",
     "telephone": "",
@@ -636,160 +141,6 @@
     "signal_alerte": "Besoin exprimé : « Refonte du site internet de la Fémis ». Appel d'offres publié le 2026-03-20, réponse avant le 2026-05-15T12:00:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-29378",
     "requete": "boamp:26-29378"
-  },
-  {
-    "entreprise": "Autorité de Régulation des Transports",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Refonte du site internet principal  de l'Autorité de régulation des transports et création de mini-sites, avec prestations associées ». Appel d'offres publié le 2026-03-18. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-27336",
-    "requete": "boamp:26-27336"
-  },
-  {
-    "entreprise": "Conservatoire du littoral",
-    "localite": "Charente-Maritime",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « PHASE CANDIDATURE : Accord-cadre à marchés subséquents pour l'acquisition, mise en œuvre et maintenance d'une solution logicielle de Marketplace pour le Conservatoire du littoral ». Appel d'offres publié le 2026-03-18. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-27691",
-    "requete": "boamp:26-27691"
-  },
-  {
-    "entreprise": "Université Paris-Saclay",
-    "localite": "Gif Sur Yvette",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Application mobile pour la collecte de données sur l'utilisation de médicaments ou compléments alimentaires auprès des participant(e)s d'études épidémiologiques prospectives ». Appel d'offres publié le 2026-03-17, réponse avant le 2026-04-09T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-27684",
-    "requete": "boamp:26-27684"
-  },
-  {
-    "entreprise": "Centre Hospitalier de Cayenne \"Andrée ROSEMON\"",
-    "localite": "Guyane",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « CONCEPTION,REALISATION, MISE EN LIGNE, DOCUMENTATION, FORMATION D'UN SITE WEB POUR LES BESOINS DE l'IFS ET MAINTENANCE DES SITES DU CHU DE GUYANE ». Appel d'offres publié le 2026-03-15, réponse avant le 2026-03-19T15:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-26656",
-    "requete": "boamp:26-26656"
-  },
-  {
-    "entreprise": "Centre hospitalier Bretagne Atlantique",
-    "localite": "Morbihan",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Fourniture de chaussures de travail pour les personnels avec mise à disposition d’un site internet et livraison à domicile - EPSM Morbihan ». Appel d'offres publié le 2026-03-15, réponse avant le 2026-04-13T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-26541",
-    "requete": "boamp:26-26541"
-  },
-  {
-    "entreprise": "FC BREST",
-    "localite": "Finistère",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « prestation de plateforme numérique de mise en relation des administrés du MINARM et de la GN avec des sociétés de déménagement dans le cadre d’une mobilité professionnelle avec changement de résidence ». Appel d'offres publié le 2026-03-13, réponse avant le 2026-04-27T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-25259",
-    "requete": "boamp:26-25259"
-  },
-  {
-    "entreprise": "Ville d'Annecy",
-    "localite": "Annecy",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Mise à disposition et maintenance d'une solution logicielle en Saas pour la rédaction et la passation des contrats publics ». Appel d'offres publié le 2026-03-13, réponse avant le 2026-04-13T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-26177",
-    "requete": "boamp:26-26177"
-  },
-  {
-    "entreprise": "Grand Besançon Métropole",
-    "localite": "Besancon",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Information et Participation du Public par Voie électronique dans le cadre des projets et procédures d'évolution des documents d'urbanisme -  Mise en place de site internet dédié ». Appel d'offres publié le 2026-03-13, réponse avant le 2026-04-16T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-26536",
-    "requete": "boamp:26-26536"
-  },
-  {
-    "entreprise": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition d’une solution logicielle de gestion des essais cliniques pour les Pharmacies à Usage Intérieur et le Département d’Essais Cliniques de l'AGEPS ». Appel d'offres publié le 2026-03-12, réponse avant le 2026-04-20T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-25150",
-    "requete": "boamp:26-25150"
-  },
-  {
-    "entreprise": "Chambre de Métiers et de l&#039;Artisanat d&#039;Ile-de-France",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Accord cadre relatif à la maintenance du site internet de la CMA IDF ». Appel d'offres publié le 2026-03-10, réponse avant le 2026-04-10T11:15:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-23807",
-    "requete": "boamp:26-23807"
-  },
-  {
-    "entreprise": "Ville d'Avignon",
-    "localite": "Avignon",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « 25s0043 - Maintenance du site Internet de la Ville d'Avignon et prestations associées 2024-2029 ». Appel d'offres publié le 2026-03-10. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-24690",
-    "requete": "boamp:26-24690"
-  },
-  {
-    "entreprise": "Département de la Dordogne",
-    "localite": "Dordogne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Fourniture de ressources numériques en ligne pour la médiathèque numérique de la Dordogne et la future plateforme culturelle ». Appel d'offres publié le 2026-03-07, réponse avant le 2026-04-07T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-23087",
-    "requete": "boamp:26-23087"
-  },
-  {
-    "entreprise": "Vendée Expansion - SEM",
-    "localite": "Vendée",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Fourniture, hébergement et maintenance d'une application mobile dédiée à la diffusion d'informations sur la vie locale et les services de proximité pour les habitants et les touristes ». Appel d'offres publié le 2026-03-04, réponse avant le 2026-04-03T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-21262",
-    "requete": "boamp:26-21262"
-  },
-  {
-    "entreprise": "Communauté Urbaine de Dunkerque",
-    "localite": "Nord",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Maintenance de la solution logicielle QLIK et prestations associées ». Appel d'offres publié le 2026-02-25, réponse avant le 2026-03-30T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-19176",
-    "requete": "boamp:26-19176"
   },
   {
     "entreprise": "Office du Tourisme de Saint Cyprien (66)",
@@ -814,83 +165,6 @@
     "requete": "boamp:26-18839"
   },
   {
-    "entreprise": "Présidence de la République",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Prestations de sécurisation de type CDN-WAF du site internet elysee.fr ». Appel d'offres publié le 2026-02-22. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-18019",
-    "requete": "boamp:26-18019"
-  },
-  {
-    "entreprise": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Maintenance de la solution logicielle de gestion des crèches et des espaces « petite enfance » de l’AP-HP et prestations complémentaires ». Appel d'offres publié le 2026-02-19. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-17177",
-    "requete": "boamp:26-17177"
-  },
-  {
-    "entreprise": "CAISSE REGIONALE ASSURANCE MALADIE",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « FOURNITURE DE SOLUTION LOGICIELLE POUR LA GESTION DU DOSSIER PATIENT INFORMATISE ET DE FACTURATION DU CENTRE MEDICALE ET DENTAIRE DE LA CRAMIF ». Appel d'offres publié le 2026-02-18, réponse avant le 2026-03-23T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-16592",
-    "requete": "boamp:26-16592"
-  },
-  {
-    "entreprise": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Solution logicielle unique pour la gestion de la Rétrocession des médicaments dans les Pharmacies à Usage Intérieur (PUI) ». Appel d'offres publié le 2026-02-18, réponse avant le 2026-03-20T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-16766",
-    "requete": "boamp:26-16766"
-  },
-  {
-    "entreprise": "Communauté d'Agglomération du Pays de Meaux",
-    "localite": "Meaux",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Référencement du site internet du Musée de la Grande Guerre ». Appel d'offres publié le 2026-02-17, réponse avant le 2026-03-24T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-16754",
-    "requete": "boamp:26-16754"
-  },
-  {
-    "entreprise": "Centre Hospitalier National d'Ophtalmologie des Quinze-Vingts",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Refonte du site internet et prestations associées ». Appel d'offres publié le 2026-02-17. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-16986",
-    "requete": "boamp:26-16986"
-  },
-  {
-    "entreprise": "CCI GRAND EST",
-    "localite": "Schiltigheim",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Création de contenus et administration éditoriale du site Internet et des réseaux sociaux, réalisation d’un plan média, achats d’espaces, conception/impression de supports et signalétique ». Appel d'offres publié le 2026-02-13. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-15695",
-    "requete": "boamp:26-15695"
-  },
-  {
     "entreprise": "GIP France Enfance Protégée",
     "localite": "Paris",
     "telephone": "",
@@ -900,39 +174,6 @@
     "signal_alerte": "Besoin exprimé : « Refonte et maintenance du site internet du 119 : Service National d'Accueil Téléphonique pour l'Enfance en Danger (SNATED) ». Appel d'offres publié le 2026-02-12, réponse avant le 2026-03-19T12:00:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-15110",
     "requete": "boamp:26-15110"
-  },
-  {
-    "entreprise": "Centre Hospitalier de Cayenne \"Andrée ROSEMON\"",
-    "localite": "Guyane",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « CONCEPTION,REALISATION, MISE EN LIGNE, DOCUMENTATION, FORMATION D'UN SITE WEB POUR LES BESOINS DE l'IFS ET MAINTENANCE DES SITES DU CHU DE GUYANE ». Appel d'offres publié le 2026-02-12, réponse avant le 2026-03-13T15:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-14552",
-    "requete": "boamp:26-14552"
-  },
-  {
-    "entreprise": "ACTION LOGEMENT IMMOBILIER",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Mise à disposition, intégration et maintien en conditions opérationnelles d'une solution logicielle de gestion de la relation clients (CRM), fournisseurs et partenaires pour le compte d'un groupement ». Appel d'offres publié le 2026-02-08, réponse avant le 2026-03-09T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-13547",
-    "requete": "boamp:26-13547"
-  },
-  {
-    "entreprise": "SATT OUEST VALORISATION",
-    "localite": "Ille-et-Vilaine",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Prestation de conception, réalisation et déploiement d’une plateforme numérique de gestion au service des Pôles Universitaires d’Innovation (PUI) ». Appel d'offres publié le 2026-02-06, réponse avant le 2026-03-09T14:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-12297",
-    "requete": "boamp:26-12297"
   },
   {
     "entreprise": "COLLECTIVITE TERRITORIALE DE MARTINIQUE",
@@ -946,149 +187,6 @@
     "requete": "boamp:26-12623"
   },
   {
-    "entreprise": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION CENTRE-VAL DE LOIRE",
-    "localite": "Loiret",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Construction du Site Internet institutionnel et e-commerce de la CMA CVL avec prestations d'hébergement et fourniture de licences ». Appel d'offres publié le 2026-02-05. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-12200",
-    "requete": "boamp:26-12200"
-  },
-  {
-    "entreprise": "MUSEE DU QUAI BRANLY - JACQUES CHIRAC",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Accord-cadre alloti relatif à la refonte de la plateforme numérique du musée du quai Branly - Jacques Chirac ». Appel d'offres publié le 2026-02-04. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-11617",
-    "requete": "boamp:26-11617"
-  },
-  {
-    "entreprise": "Conseil constitutionnel",
-    "localite": "Paris",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Accord-cadre de prestations de refonte, maintenance et hébergement du site internet du Conseil constitutionnel ». Appel d'offres publié le 2026-02-01. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-10898",
-    "requete": "boamp:26-10898"
-  },
-  {
-    "entreprise": "Office Public de l'Habitat de la Charente Maritime (17)",
-    "localite": "La Rochelle",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « CONCEPTION ERGONOMIQUE, GRAPHIQUE, TECHNIQUE et FONCTIONNELLE, DEVELOPPEMENT, HEBERGEMENT, MAINTENANCE DU NOUVEAU SITE WEB DE HABITAT 17 ». Appel d'offres publié le 2026-01-30, réponse avant le 2026-02-11T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-10758",
-    "requete": "boamp:26-10758"
-  },
-  {
-    "entreprise": "CCI GRAND EST",
-    "localite": "Schiltigheim",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Création de contenus et administration éditoriale du site Internet et des réseaux sociaux, réalisation d’un plan média et achats d’espaces, impression de supports de communication et signalétique ». Appel d'offres publié le 2026-01-27, réponse avant le 2026-02-20T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-9359",
-    "requete": "boamp:26-9359"
-  },
-  {
-    "entreprise": "COMITE D'ORGANISATION DES JEUX OLYMPIQUES ET PARALYMPIQUES D'HIVER DES ALPES FRANCAISES 2030",
-    "localite": "Rhône",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Conception et développement du site internet grand public du Comité d'Organisation des Jeux Olympiques et Paralympiques d'hiver Alpes Françaises 2030 ». Appel d'offres publié le 2026-01-27, réponse avant le 2026-02-09T10:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-8777",
-    "requete": "boamp:26-8777"
-  },
-  {
-    "entreprise": "SIGERLY",
-    "localite": "Villeurbanne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition, fourniture et mise à disposition, mise en oeuvre, formation et maintenance d'une solution logicielle moderne de gestion des opérations de travaux pour le SIGERLy ». Appel d'offres publié le 2026-01-26. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-8907",
-    "requete": "boamp:26-8907"
-  },
-  {
-    "entreprise": "Ecole centrale de Lyon",
-    "localite": "Rhône",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition, mise en oeuvre et maintenance d'une solution logicielle de Gestion de la Relation Client pour Centrale Lyon ». Appel d'offres publié le 2026-01-25, réponse avant le 2026-03-04T11:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-8344",
-    "requete": "boamp:26-8344"
-  },
-  {
-    "entreprise": "CONSEIL DEPARTEMENTAL DU CALVADOS (CD 14)",
-    "localite": "Calvados",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Acquisition, mise en œuvre, maintenance et prestations complémentaires pour une solution logicielle mutualisée de gestion de collections patrimoniales ». Appel d'offres publié le 2026-01-25. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-8082",
-    "requete": "boamp:26-8082"
-  },
-  {
-    "entreprise": "Centre Hospitalier Montperrin",
-    "localite": "Aix En Provence",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « 2025-0461 Refonte Du Site Internet, Hebergement, Maintenance Et Prestations Associees Pour Le Compte Du Centre Hospitalier Montperrin ». Appel d'offres publié le 2026-01-23. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-8049",
-    "requete": "boamp:26-8049"
-  },
-  {
-    "entreprise": "Collectivite Territoriale De Guyane",
-    "localite": "Cayenne",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Développement, alimentation, animation, maintenance du site internet « europe-guyane.fr \" ». Appel d'offres publié le 2026-01-23, réponse avant le 2026-02-23T08:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-8461",
-    "requete": "boamp:26-8461"
-  },
-  {
-    "entreprise": "Communauté de Communes de la Vallée de l'Ubaye Serre Ponçon (04)",
-    "localite": "Barcelonnette",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Développement et mise en œuvre d'une application mobile Ubaye et tableau de bord analytique associé. ». Appel d'offres publié le 2026-01-23, réponse avant le 2026-02-20T12:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-8137",
-    "requete": "boamp:26-8137"
-  },
-  {
-    "entreprise": "Centre Hospitalier Intercommunal Alençon Mamers",
-    "localite": "Alençon",
-    "telephone": "",
-    "email": "",
-    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
-    "secteur": "secteur public / collectivité",
-    "signal_alerte": "Besoin exprimé : « Prestation de création et d'hébergement du site internet du CH Alençon-Mamers ». Appel d'offres publié le 2026-01-21, réponse avant le 2026-03-05T13:00:00+00:00. Besoin avéré, budget public engagé.",
-    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-7264",
-    "requete": "boamp:26-7264"
-  },
-  {
     "entreprise": "Communauté de Communes de Haute Tarentaise",
     "localite": "Savoie",
     "telephone": "",
@@ -1098,5 +196,610 @@
     "signal_alerte": "Besoin exprimé : « La présente consultation a pour objet la refonte du site internet de la communauté de communes de Haute Tarentaise ». Appel d'offres publié le 2026-01-21, réponse avant le 2026-02-27T12:00:00+00:00. Besoin avéré, budget public engagé.",
     "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-7107",
     "requete": "boamp:26-7107"
+  },
+  {
+    "entreprise": "SPL Destination Thonon",
+    "localite": "Haute-Savoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création d'un nouveau site internet de destination \nà partir de la fusion des deux sites internet existants \ndes Offices de Tourisme de Thonon-les-Bains & Destination Léman\n\nLieux d'exécution : \nTe... ». Appel d'offres publié le 2026-01-12, réponse avant le 2026-02-11T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-3588",
+    "requete": "boamp:26-3588"
+  },
+  {
+    "entreprise": "SPL LE MANS EVENEMENTS",
+    "localite": "Sarthe",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte et création du site internet de l'Office de Tourisme et le Bureau des Congrès de le Mans Métropole ». Appel d'offres publié le 2026-01-09, réponse avant le 2026-02-20T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-2529",
+    "requete": "boamp:26-2529"
+  },
+  {
+    "entreprise": "Cnté de Communes du Canton d'Erstein",
+    "localite": "Bas-Rhin",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création du site Internet, hébergement et maintenance pour le compte de la Communauté de Communes du Canton d'Erstein ». Appel d'offres publié le 2026-01-07, réponse avant le 2026-02-09T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:26-1671",
+    "requete": "boamp:26-1671"
+  },
+  {
+    "entreprise": "CHU de Brest",
+    "localite": "Finistère",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « CHU de Brest - Site de la Cavale Blanche - Pôle 4 - Niveau 3 - Travaux de refonte du plateau d'hémodialyse ». Appel d'offres publié le 2025-12-19, réponse avant le 2026-02-12T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-140572",
+    "requete": "boamp:25-140572"
+  },
+  {
+    "entreprise": "Commune de Corte",
+    "localite": "Dép. 20B",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Conception, développement, hébergement et maintenance du nouveau site internet de la ville de Corte ». Appel d'offres publié le 2025-12-11, réponse avant le 2026-01-30T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-136489",
+    "requete": "boamp:25-136489"
+  },
+  {
+    "entreprise": "Conseil Départemental du Lot-et-Garonne",
+    "localite": "Lot-et-Garonne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « MISE EN PLACE D'UNE PLATEFORME NUMERIQUE DE DEMOCRATIE PARTICIPATIVE ». Appel d'offres publié le 2025-12-10, réponse avant le 2026-01-12T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-136233",
+    "requete": "boamp:25-136233"
+  },
+  {
+    "entreprise": "Conseil Départemental de la Charente",
+    "localite": "Charente",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Mission d'assistance à la mise en oeuvre d'un observatoire des politiques sociales et à la poursuite de la création d'un site internet « Observatoire des politiques sociales du département » ». Appel d'offres publié le 2025-12-09, réponse avant le 2026-01-12T17:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-135277",
+    "requete": "boamp:25-135277"
+  },
+  {
+    "entreprise": "Office de Tourisme de Marseille",
+    "localite": "Bouches-du-Rhône",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « OPTIMISATION DU REFERENCEMENT NATUREL (SEO) DU SITE INTERNET DE L’OFFICE DE TOURISME, DES LOISIRS ET DES CONGRES DE MARSEILLE ». Appel d'offres publié le 2025-12-05, réponse avant le 2026-01-09T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-134151",
+    "requete": "boamp:25-134151"
+  },
+  {
+    "entreprise": "COMMUNAUTE D'AGGLOMERATION TARBES-LOURDES-PYRENEES",
+    "localite": "Hautes-Pyrénées",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création, hébergement et maintenance du site internet de l'établissement et d'un site annexe concernant le réseau des enseignements artistiques ». Appel d'offres publié le 2025-12-03, réponse avant le 2026-01-09T17:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-133155",
+    "requete": "boamp:25-133155"
+  },
+  {
+    "entreprise": "Conseil Départemental de la Charente",
+    "localite": "Charente",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Mission d'assistance à la mise en oeuvre d'un observatoire des politiques sociales et à la poursuite de la création d'un site internet « Observatoire des politiques sociales du département » ». Appel d'offres publié le 2025-11-20, réponse avant le 2025-12-15T17:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-128687",
+    "requete": "boamp:25-128687"
+  },
+  {
+    "entreprise": "Musée de l'Armée",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création, hébergement et maintenance d’un site web dédié à la diffusion de collections d’artillerie conservées en France (territoire métropolitain et outre-mer) ». Appel d'offres publié le 2025-11-13, réponse avant le 2025-12-15T11:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-125925",
+    "requete": "boamp:25-125925"
+  },
+  {
+    "entreprise": "Sarthe Culture",
+    "localite": "Sarthe",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « PRESTATIONS DE REFONTE, D'HEBERGEMENT ET DE MAINTENANCE DU SITE INTERNET DE L'ABBAYE ROYALE DE L'ÉPAU ET CREATION D'UN SECOND SITE VITRINE DEDIE AUX ESPACES HENRI PESCAROLO - RELANCE ». Appel d'offres publié le 2025-11-05, réponse avant le 2025-11-28T11:30:51+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-123316",
+    "requete": "boamp:25-123316"
+  },
+  {
+    "entreprise": "C'Chartres Tourisme (28)",
+    "localite": "Eure-et-Loir",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Accord cadre pour la conception, le développement, la mise en ligne et la maintenance d'un site internet pour la SPL C'Chartres Tourisme ». Appel d'offres publié le 2025-10-28. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-120192",
+    "requete": "boamp:25-120192"
+  },
+  {
+    "entreprise": "Sarthe Culture",
+    "localite": "Sarthe",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « PRESTATIONS DE REFONTE, D'HEBERGEMENT ET DE MAINTENANCE DU SITE INTERNET DE L'ABBAYE ROYALE DE L'ÉPAU ET CREATION D'UN SECOND SITE VITRINE DEDIE AUX ESPACES HENRI PESCAROLO ». Appel d'offres publié le 2025-10-21, réponse avant le 2025-11-28T11:30:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-117215",
+    "requete": "boamp:25-117215"
+  },
+  {
+    "entreprise": "ANSES",
+    "localite": "Val-de-Marne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Mission de maîtrise d’œuvre pour la refonte du système de climatisation sur le site de l’Anses à Nancy ». Appel d'offres publié le 2025-10-17, réponse avant le 2025-11-28T17:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-115756",
+    "requete": "boamp:25-115756"
+  },
+  {
+    "entreprise": "Région Hauts-de-France",
+    "localite": "Nord",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte de la charte de graphique, du site web et mise à disposition d'un outil d'exploration des centres d'intérêts professionnels et des métiers ». Appel d'offres publié le 2025-09-25, réponse avant le 2025-10-23T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-106756",
+    "requete": "boamp:25-106756"
+  },
+  {
+    "entreprise": "ENSP de Versailles",
+    "localite": "Yvelines",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « 2025-10 Création du nouveau site internet du Potager du Roi ». Appel d'offres publié le 2025-09-03. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-98174",
+    "requete": "boamp:25-98174"
+  },
+  {
+    "entreprise": "C2RP Carif-Oref Hauts-de-France",
+    "localite": "Nord",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Tierce maintenance applicative (TMA) et hébergement de l'outil Cléor - base de données\n- application web - API (interface de programmation d'application). ». Appel d'offres publié le 2025-08-28, réponse avant le 2025-09-30T16:30:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-96010",
+    "requete": "boamp:25-96010"
+  },
+  {
+    "entreprise": "INRIA",
+    "localite": "Yvelines",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « 2025-0617 FOURNITURE EN MODE SAAS D’UNE PLATEFORME NUMERIQUE DE FORMATION ». Appel d'offres publié le 2025-08-20, réponse avant le 2025-09-11T18:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-93583",
+    "requete": "boamp:25-93583"
+  },
+  {
+    "entreprise": "Troyes Champagne Metropole",
+    "localite": "Aube",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Marché de services visant à souscrire à une application web de suivi et d’optimisation de la dette, de la dette garantie et des lignes de trésorerie-. ». Appel d'offres publié le 2025-07-11, réponse avant le 2025-08-08T17:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-79328",
+    "requete": "boamp:25-79328"
+  },
+  {
+    "entreprise": "Porte du Hainaut",
+    "localite": "Nord",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Le présent marché a pour objet la conception et la création/ développement et installation du portail web, la fourniture du logiciel CMS et de ses composants, sa connexion avec le SIGB, son référencem ». Appel d'offres publié le 2025-07-09, réponse avant le 2025-07-22T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-78183",
+    "requete": "boamp:25-78183"
+  },
+  {
+    "entreprise": "CA2BM",
+    "localite": "Pas-de-Calais",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « CONCEPTION REALISATION HEBERGEMENT ET MAINTENANCE DU SITE INTERNET DE LA CA2BM ». Appel d'offres publié le 2025-07-03. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-75651",
+    "requete": "boamp:25-75651"
+  },
+  {
+    "entreprise": "POLE JUDICIAIRE DE LA GENDARMERIE NATIONALE",
+    "localite": "Val-d'Oise",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « FABRICATION, LIVRAISON, INSTALLATION, MISE EN SERVICE ET PRESTATIONS ASSOCIÉES D’UNE PLATEFORME ROBOTIQUE DE TRAITEMENT NUMÉRIQUE AUTOMATISÉE POUR PJGN Cergy Pontoise (95). ». Appel d'offres publié le 2025-06-10. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-64901",
+    "requete": "boamp:25-64901"
+  },
+  {
+    "entreprise": "Communauté Territoriale Sud Luberon",
+    "localite": "Vaucluse",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte site internet COTELUB ». Appel d'offres publié le 2025-04-23, réponse avant le 2025-05-16T14:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-45990",
+    "requete": "boamp:25-45990"
+  },
+  {
+    "entreprise": "Département du Finistère\n 32 boulevard Dupleix\n29196 QUIMPER",
+    "localite": "Finistère",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création et maintenance d'un site Internet départemental dédié à l'eau potable en Finistère ». Appel d'offres publié le 2025-04-18, réponse avant le 2025-06-04T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-44713",
+    "requete": "boamp:25-44713"
+  },
+  {
+    "entreprise": "AFNOR",
+    "localite": "Seine-Saint-Denis",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Dans le cadre de la refonte de son site afnor.org, AFNOR cherche d'une agence avec une expertise en UX-UI Design pour l'accompagner dans la réflexion stratégique jusqu'à la livraison du produit final, ». Appel d'offres publié le 2025-04-16, réponse avant le 2025-05-19T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-43648",
+    "requete": "boamp:25-43648"
+  },
+  {
+    "entreprise": "Caisse Primaire d'Assurance maladie de la Gironde",
+    "localite": "Gironde",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Le présent marché a pour objet une solution logicielle de gestion des files d?attente du Centre d?examens de santé de la CPAM de la Gironde. ». Appel d'offres publié le 2025-04-10, réponse avant le 2025-05-16T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-40960",
+    "requete": "boamp:25-40960"
+  },
+  {
+    "entreprise": "Collectivité Territoriale de Martinique",
+    "localite": "Martinique",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Le recueil des besoins des directions, la refonte, la maintenance et l'hébergement du site internet de la Collectivité Territoriale de Martinique ». Appel d'offres publié le 2025-04-01, réponse avant le 2025-04-23T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-36862",
+    "requete": "boamp:25-36862"
+  },
+  {
+    "entreprise": "Metropole Rouen Normandie",
+    "localite": "Seine-Maritime",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte, hébergement et maintenance du site internet de la Réunion des Musées Métropolitains Rouen Normandie ». Appel d'offres publié le 2025-03-17, réponse avant le 2025-04-14T16:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-30048",
+    "requete": "boamp:25-30048"
+  },
+  {
+    "entreprise": "Communauté de Communes des Hauts de Flandre",
+    "localite": "Nord",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Fourniture, mise en œuvre et maintenance d’une solution logicielle associée à la création de bornes d’informations tactiles existantes et à venir pour l’OTI ». Appel d'offres publié le 2025-03-05, réponse avant le 2025-04-14T11:30:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-25361",
+    "requete": "boamp:25-25361"
+  },
+  {
+    "entreprise": "Commune de Saint-Cyr sur Mer (83)",
+    "localite": "Var",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte du site internet et intranet de la commune de Saint-Cyr-sur-Mer ». Appel d'offres publié le 2025-02-26. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-22521",
+    "requete": "boamp:25-22521"
+  },
+  {
+    "entreprise": "Ville de La Rochelle",
+    "localite": "Charente-Maritime",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « ASSISTANCE A MAITRISE D'OUVRAGE POUR L'EVALUATION ET LE CHOIX D'UNE SOLUTION LOGICIELLE ADAPTEE AUX BESOINS DU SERVICE EDUCATION ». Appel d'offres publié le 2025-02-26, réponse avant le 2025-03-31T17:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-22339",
+    "requete": "boamp:25-22339"
+  },
+  {
+    "entreprise": "Université de Limoges\nPôle de la commande publique\n33 rue François Mitterrand\n87032 LIMOGES",
+    "localite": "Haute-Vienne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Prestation de réalisation de développement d?une solution logicielle d?interface de contribution ». Appel d'offres publié le 2025-02-26, réponse avant le 2025-03-25T16:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-22512",
+    "requete": "boamp:25-22512"
+  },
+  {
+    "entreprise": "Conseil Départemental Haute-Vienne",
+    "localite": "Haute-Vienne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Réalisation, maintenance et hébergement du site internet \" www.chalucet.com \" ». Appel d'offres publié le 2025-01-27, réponse avant le 2025-03-03T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-9446",
+    "requete": "boamp:25-9446"
+  },
+  {
+    "entreprise": "MAIRIE DE CHAMONIX MONT-BLANC",
+    "localite": "Haute-Savoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « ACQUISITION ET MAINTENANCE D'UNE SOLUTION LOGICIELLE POUR LA GESTION  DE L'OCCUPATION DU DOMAINE PUBLIQUE ET DES FOIRES ET MARCHES A CHAMONIX ». Appel d'offres publié le 2025-01-16, réponse avant le 2025-02-24T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-5824",
+    "requete": "boamp:25-5824"
+  },
+  {
+    "entreprise": "Office de Tourisme de Palavas-les Flots",
+    "localite": "Hérault",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Conception d'un site internet ». Appel d'offres publié le 2025-01-10, réponse avant le 2025-02-17T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:25-3508",
+    "requete": "boamp:25-3508"
+  },
+  {
+    "entreprise": "Hauts-de-Seine Habitat - OPH",
+    "localite": "Hauts-de-Seine",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « MARCHE D'HEBERGEMENT DU SITE WEB (hautsdeseinehabitat.fr) ». Appel d'offres publié le 2024-12-18, réponse avant le 2025-01-30T16:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-142201",
+    "requete": "boamp:24-142201"
+  },
+  {
+    "entreprise": "Communauté Urbaine de Dunkerque",
+    "localite": "Nord",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Fourniture mise en service maintenance d'une solution logicielle de gestion de la maintenance de la sécurité du patrimoine bâti de la CU Dunkerque et de la Ville de Dunkerque et prestations associées ». Appel d'offres publié le 2024-12-17, réponse avant le 2025-01-15T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-141573",
+    "requete": "boamp:24-141573"
+  },
+  {
+    "entreprise": "Mairie de FILLIERE",
+    "localite": "Haute-Savoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création et maintenance d'un site internet ». Appel d'offres publié le 2024-12-10, réponse avant le 2025-01-13T14:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-138800",
+    "requete": "boamp:24-138800"
+  },
+  {
+    "entreprise": "MAIRIE DE LOURDES",
+    "localite": "Hautes-Pyrénées",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Fourniture d'équipements de péage et de gestion des flux parking Peyramale qui intègre une solution logicielle de pilotage, de contrôle et de suivi de l'activité assurant l'interopérabilité avec le pa ». Appel d'offres publié le 2024-12-05, réponse avant le 2024-12-26T11:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-136727",
+    "requete": "boamp:24-136727"
+  },
+  {
+    "entreprise": "24-98",
+    "localite": "Essonne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte, hébergement et maintenance du site internet de la Communauté d'agglomération Paris-Saclay ». Appel d'offres publié le 2024-12-04. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-136509",
+    "requete": "boamp:24-136509"
+  },
+  {
+    "entreprise": "Communauté d'Agglomération Coeur de Flandre",
+    "localite": "Nord",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Acquisition, hébergement, maintenance d’une solution en SaaS de caisse, de billetterie, de portail web pour les piscines intercommunales ». Appel d'offres publié le 2024-12-03, réponse avant le 2025-01-08T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-135612",
+    "requete": "boamp:24-135612"
+  },
+  {
+    "entreprise": "MAIRIE DE LOURDES",
+    "localite": "Hautes-Pyrénées",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte du site internet de la Ville de Lourdes, hébergement et maintenance du site, transfert des données de l'ancien site vers le nouveau ». Appel d'offres publié le 2024-11-06, réponse avant le 2024-11-28T11:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-126053",
+    "requete": "boamp:24-126053"
+  },
+  {
+    "entreprise": "SMTD Sud et Ouest de la Réunion",
+    "localite": "La Réunion",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « MAPA. Acquisition, mise en oeuvre, formation et maintenance d'une solution logicielle de gestion des régies de recettes sur les sites d'ILEVA ». Appel d'offres publié le 2024-11-04, réponse avant le 2024-12-05T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-124905",
+    "requete": "boamp:24-124905"
+  },
+  {
+    "entreprise": "Ville de Mantes la Ville",
+    "localite": "Yvelines",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte, hébergement et maintenance du site internet de Mantes-la-Ville ». Appel d'offres publié le 2024-10-28, réponse avant le 2024-11-22T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-123253",
+    "requete": "boamp:24-123253"
+  },
+  {
+    "entreprise": "Université de Pau et des Pays de l'Adour",
+    "localite": "Pyrénées-Atlantiques",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Développement d'un nouveau mode de construction dans le logiciel City_Generator2v0.2 et étude exploratoire sur la prise en compte de cours intérieures - site d'Anglet ». Appel d'offres publié le 2024-10-28, réponse avant le 2024-11-18T17:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-122807",
+    "requete": "boamp:24-122807"
+  },
+  {
+    "entreprise": "COMMUNAUTE DE COMMUNES VAL-DE-CHER-CONTROIS",
+    "localite": "Loir-et-Cher",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « ASSISTANCE A MAITRISE D'OUVRAGE (AMO) POUR LA REDEFINITION D'UNE STRATEGIE NUMERIQUE RESPONSABLE ET POUR LA REFONTE DU SITE INTERNET DE LA COMMUNAUTE DE COMMUNES VAL DE CHER CONTROIS ». Appel d'offres publié le 2024-10-25, réponse avant le 2024-12-02T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-122699",
+    "requete": "boamp:24-122699"
+  },
+  {
+    "entreprise": "Communauté de communes Vallée de l'Hérault",
+    "localite": "Hérault",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte du portail web de la Communauté de communes Vallée de l'Hérault ». Appel d'offres publié le 2024-10-04, réponse avant le 2024-11-04T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-112831",
+    "requete": "boamp:24-112831"
+  },
+  {
+    "entreprise": "Université de La Réunion",
+    "localite": "La Réunion",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création d'un site internet dans le cadre du projet TRETZERBAJ ». Appel d'offres publié le 2024-09-10. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-102652",
+    "requete": "boamp:24-102652"
+  },
+  {
+    "entreprise": "MAIRIE DE CUGNAUX",
+    "localite": "Haute-Garonne",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « REFONTE, HEBERGEMENT ET MAINTENANCE DU SITE INTERNET DE LA VILLE DE CUGNAUX ». Appel d'offres publié le 2024-08-07, réponse avant le 2024-09-26T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-93015",
+    "requete": "boamp:24-93015"
+  },
+  {
+    "entreprise": "Caisse des Ecoles du 19ème",
+    "localite": "Paris",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Acquisition d'une solution logicielle d'achats et de gestion de production alimentaire pour la restauration collective et d'un hébergement en cloud privé ». Appel d'offres publié le 2024-07-04, réponse avant le 2024-07-31T16:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-78178",
+    "requete": "boamp:24-78178"
+  },
+  {
+    "entreprise": "Syndicat Mixte de l'Argens (83)",
+    "localite": "Var",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Refonte intégrale du site internet du Syndicat Mixte de l'Argens ». Appel d'offres publié le 2024-07-03, réponse avant le 2024-07-29T09:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-77914",
+    "requete": "boamp:24-77914"
+  },
+  {
+    "entreprise": "Région Bourgogne Franche-Comté et l'Etat",
+    "localite": "Côte-d'Or",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Création d'un centre de ressources pour l'égalité Femmes/Hommes en région Bourgogne Franche-Comté Lot 1 : plateforme numérique ». Appel d'offres publié le 2024-06-28, réponse avant le 2024-07-22T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-75672",
+    "requete": "boamp:24-75672"
+  },
+  {
+    "entreprise": "Conseil départemental du Jura",
+    "localite": "Jura",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « Fournitures de données météorologiques via un site internet pour les besoins du Conseil Départemental (viabilité hivernale et activités tous travaux) ». Appel d'offres publié le 2024-06-20, réponse avant le 2024-07-26T11:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-72098",
+    "requete": "boamp:24-72098"
+  },
+  {
+    "entreprise": "CC Vallée Chamonix Mont-Blanc",
+    "localite": "Haute-Savoie",
+    "telephone": "",
+    "email": "",
+    "categorie": "Besoin logiciel exprimé (appel d'offres public)",
+    "secteur": "secteur public / collectivité",
+    "signal_alerte": "Besoin exprimé : « ACQUISITION ET MAINTENANCE D'UNE SOLUTION LOGICIELLE POUR LA GESTION DE LA TAXE DE SEJOUR ET DU CHANGEMENT D'USAGE DES LOCAUX ». Appel d'offres publié le 2024-06-04, réponse avant le 2024-06-28T12:00:00+00:00. Besoin avéré, budget public engagé.",
+    "source_url": "https://www.boamp.fr/pages/avis/?q=idweb:24-64455",
+    "requete": "boamp:24-64455"
   }
 ]
