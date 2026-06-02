@@ -118,21 +118,24 @@ open data). L'objet du marché EST le signal — un organisme qui publie un appe
 d'offres pour un site / une application / une plateforme / un logiciel a un
 besoin **avéré, daté et budgété**.
 
-- **100 besoins logiciels distincts** (100 objets uniques), **54 localités**
-- **79 % contactables** : **52** avec téléphone, **71** avec email — coordonnées
-  réelles de l'acheteur (ex. `marches@departement06.fr`)
+- **100 besoins logiciels distincts** (100 objets uniques), **55 localités**
+- **100 % d'avis 2026** (récents/en cours), triés du plus récent au plus ancien
 - `signal_alerte` = l'**objet exact du marché** + date de parution + date limite
-- `source_url` = lien direct vers l'avis BOAMP (cahier des charges + contact)
-- Exemples : Réalisation du site de la Ville d'Orvault, refonte du site du
-  Département des Alpes-Maritimes, solution logicielle CMA France…
+- `source_url` = lien direct vers l'avis BOAMP (cahier des charges + contact acheteur)
+- Exemples (2026) : Création du site internet de l'Hôpital Nord Franche-Comté,
+  refonte du site institutionnel d'une ville, plateforme numérique du CESE…
 
 > ℹ️ **Honnêteté sur les données** : les acheteurs sont **publics**
-> (collectivités, hôpitaux, CMA…) ; le closing = répondre à l'appel d'offres.
-> Les avis exploités datent de **2023** (les avis 2025+ au format *eForms*
-> n'exposent plus les coordonnées de l'acheteur dans l'open data) : le besoin
-> est donc **prouvé** et l'organisme **joignable**, mais l'AO précis peut être
-> clôturé — ce sont des organisations à **investissement digital démontré**. Le
-> contact des avis récents reste accessible via le lien `source_url`.
+> (collectivités, hôpitaux, établissements) ; le closing = répondre à l'appel
+> d'offres avant la date limite. Les avis récents sont au format *eForms*, qui
+> **n'expose pas** les coordonnées de l'acheteur dans l'open data : les colonnes
+> `telephone`/`email` sont donc le plus souvent vides, mais **chaque avis est
+> directement actionnable via `source_url`** (l'avis en ligne contient le contact
+> de l'acheteur, la date limite et le cahier des charges).
+>
+> 💡 Variante « plus de contacts » : `python3 main.py --source besoins
+> --date-min 2023-01-01` ramène des avis plus anciens mais avec coordonnées
+> renseignées (~75 % contactables) — au prix d'AO potentiellement clôturés.
 
 ## 🔎 Moteurs de recherche utilisés
 
