@@ -5,6 +5,7 @@
     "telephone": "+33 1 42 02 92 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.orpi.com/parc.immo/",
     "requete": "overpass:agence immobilière:Paris"
@@ -15,6 +16,7 @@
     "telephone": "+33 1 45 32 56 32",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://matmut.fr",
     "requete": "overpass:cabinet d'assurance:Paris"
@@ -25,6 +27,7 @@
     "telephone": "+33 1 79 75 91 91",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'avocats",
     "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://avocat-reiter-paris.fr",
     "requete": "overpass:cabinet d'avocats:Paris"
@@ -35,6 +38,7 @@
     "telephone": "+33 1 40 15 90 77",
     "email": "cglegal@cglegal.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'avocats",
     "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.cglegal.fr",
     "requete": "overpass:cabinet d'avocats:Paris"
@@ -45,6 +49,7 @@
     "telephone": "+33 1 58 10 16 00",
     "email": "parismontsouris@gan.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.ganassurances.fr/",
     "requete": "overpass:cabinet d'assurance:Paris"
@@ -55,6 +60,7 @@
     "telephone": "+33 1 43 40 10 10",
     "email": "paris12garedelyon@laforet.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.laforet.com/agence-immobiliere/paris12garedelyon",
     "requete": "overpass:agence immobilière:Paris"
@@ -65,6 +71,7 @@
     "telephone": "+33 1 85 53 21 43",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'avocats",
     "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.ds2a-avocats.fr/contact",
     "requete": "overpass:cabinet d'avocats:Paris"
@@ -75,6 +82,7 @@
     "telephone": "+33 1 83 75 81 22",
     "email": "accueil.lecourbe@grandental.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet dentaire",
     "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://grandental.fr",
     "requete": "overpass:cabinet dentaire:Paris"
@@ -85,6 +93,7 @@
     "telephone": "+33 1 88 83 72 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.agencessaintferdinand.com",
     "requete": "overpass:agence immobilière:Paris"
@@ -95,6 +104,7 @@
     "telephone": "+33 1 40 23 02 22",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet dentaire",
     "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/1488772081",
     "requete": "overpass:cabinet dentaire:Paris"
@@ -105,6 +115,7 @@
     "telephone": "+33 1 88 61 70 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet dentaire",
     "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://nobelsanteplus.fr/nos-centres/centre-dentaire-paris-14-alesia/",
     "requete": "overpass:cabinet dentaire:Paris"
@@ -115,6 +126,7 @@
     "telephone": "+33 1 40 71 90 36",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/1640452951",
     "requete": "overpass:agence immobilière:Paris"
@@ -125,6 +137,7 @@
     "telephone": "+33 4 78 37 77 17",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.century21-pi-immobilier-lyon.com",
     "requete": "overpass:agence immobilière:Lyon"
@@ -135,6 +148,7 @@
     "telephone": "+33 4 37 91 19 65",
     "email": "mentions-legales@erafrance.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.era-lacassagne.com",
     "requete": "overpass:agence immobilière:Lyon"
@@ -145,6 +159,7 @@
     "telephone": "+33 4 78 22 32 72",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2630265225",
     "requete": "overpass:agence immobilière:Lyon"
@@ -155,6 +170,7 @@
     "telephone": "+33 7 49 99 78 22",
     "email": "conseil@parapluie-mutuelle-prevoyance.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://parapluie-mutuelle-prevoyance.fr",
     "requete": "overpass:cabinet d'assurance:Lyon"
@@ -165,6 +181,7 @@
     "telephone": "+33 4 78 64 07 07",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'architecture",
     "signal_alerte": "Profession solvable (cabinet d'architecture, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.sudarchitectes.com/",
     "requete": "overpass:cabinet d'architecture:Lyon"
@@ -175,6 +192,7 @@
     "telephone": "+33 4 37 28 37 20",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/3670394292",
     "requete": "overpass:agence immobilière:Lyon"
@@ -185,6 +203,7 @@
     "telephone": "+33 4 78 78 15 60",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://immobilieredelest.fr/",
     "requete": "overpass:agence immobilière:Lyon"
@@ -195,6 +214,7 @@
     "telephone": "+33 9 50 33 79 31",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.agencedespentes.fr/",
     "requete": "overpass:agence immobilière:Lyon"
@@ -205,6 +225,7 @@
     "telephone": "+33 4 37 56 78 07",
     "email": "lyon3@guyhoquet.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5039727652",
     "requete": "overpass:agence immobilière:Lyon"
@@ -215,6 +236,7 @@
     "telephone": "+33 4 72 10 24 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://agence.maif.fr/assurance/particuliers/maif-assurances-lyon-quais-de-saone-id6910",
     "requete": "overpass:cabinet d'assurance:Lyon"
@@ -225,6 +247,7 @@
     "telephone": "+33 9 78 97 98 99",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5331329522",
     "requete": "overpass:cabinet d'assurance:Lyon"
@@ -235,6 +258,7 @@
     "telephone": "+33 4 72 10 22 44",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.century21-montchat-lyon.com/",
     "requete": "overpass:agence immobilière:Lyon"
@@ -245,6 +269,7 @@
     "telephone": "+33 4 91 92 87 07",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2019803234",
     "requete": "overpass:cabinet d'assurance:Marseille"
@@ -255,6 +280,7 @@
     "telephone": "+33 4 84 89 60 13",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet dentaire",
     "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2120985263",
     "requete": "overpass:cabinet dentaire:Marseille"
@@ -265,6 +291,7 @@
     "telephone": "+33 4 91 22 28 28",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/3882253211",
     "requete": "overpass:agence immobilière:Marseille"
@@ -275,6 +302,7 @@
     "telephone": "+33 4 91 75 63 86",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/4290912676",
     "requete": "overpass:cabinet d'assurance:Marseille"
@@ -285,6 +313,7 @@
     "telephone": "+33 4 91 79 44 44",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'expertise comptable",
     "signal_alerte": "Profession solvable (cabinet d'expertise comptable, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/4309482279",
     "requete": "overpass:cabinet d'expertise comptable:Marseille"
@@ -295,6 +324,7 @@
     "telephone": "+33 4 91 37 82 44",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet dentaire",
     "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://dr-hullin-anne-christine.chirurgiens-dentistes.fr/",
     "requete": "overpass:cabinet dentaire:Marseille"
@@ -305,6 +335,7 @@
     "telephone": "+33 4 65 07 07 07",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/4905454421",
     "requete": "overpass:agence immobilière:Marseille"
@@ -315,6 +346,7 @@
     "telephone": "+33 4 91 87 02 90",
     "email": "rouvier.marseille@allianz.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://agence.allianz.fr/marseille-republique-13001-H98499",
     "requete": "overpass:cabinet d'assurance:Marseille"
@@ -325,6 +357,7 @@
     "telephone": "+33 4 91 29 68 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5318190724",
     "requete": "overpass:cabinet d'assurance:Marseille"
@@ -335,6 +368,7 @@
     "telephone": "+33 9 78 97 98 99",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5318213421",
     "requete": "overpass:cabinet d'assurance:Marseille"
@@ -345,6 +379,7 @@
     "telephone": "+33 4 88 60 55 55",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://imrep.fr/",
     "requete": "overpass:agence immobilière:Marseille"
@@ -355,6 +390,7 @@
     "telephone": "+33 4 65 57 00 47",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/6235592687",
     "requete": "overpass:agence immobilière:Marseille"
@@ -365,6 +401,7 @@
     "telephone": "+33 5 61 53 77 35",
     "email": "cabinetlafourcade@gmail.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet dentaire",
     "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://www.drmayo.fr/",
     "requete": "overpass:cabinet dentaire:Toulouse"
@@ -375,6 +412,7 @@
     "telephone": "+33 5 62 19 14 35",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.toulouseimmo9.com/agence-gestion-locative-toulouse",
     "requete": "overpass:agence immobilière:Toulouse"
@@ -385,6 +423,7 @@
     "telephone": "+33 5 62 27 01 09",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'avocats",
     "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/1544881673",
     "requete": "overpass:cabinet d'avocats:Toulouse"
@@ -395,6 +434,7 @@
     "telephone": "+33 5 61 62 85 85",
     "email": "toulouse-minimes@guyhoquet.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.guy-hoquet.com/",
     "requete": "overpass:agence immobilière:Toulouse"
@@ -405,6 +445,7 @@
     "telephone": "+33 5 61 14 61 99",
     "email": "cil@human-immobilier.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.human-immobilier.fr/toulouse-st-agne",
     "requete": "overpass:agence immobilière:Toulouse"
@@ -415,6 +456,7 @@
     "telephone": "+33 5 62 15 40 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2283236431",
     "requete": "overpass:cabinet d'assurance:Toulouse"
@@ -425,6 +467,7 @@
     "telephone": "+33 5 62 73 71 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2444345512",
     "requete": "overpass:agence immobilière:Toulouse"
@@ -435,6 +478,7 @@
     "telephone": "+33 5 61 21 63 85",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.agenceimmodutaur.com/",
     "requete": "overpass:agence immobilière:Toulouse"
@@ -445,6 +489,7 @@
     "telephone": "+33 5 62 26 73 37",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2447719439",
     "requete": "overpass:agence immobilière:Toulouse"
@@ -455,6 +500,7 @@
     "telephone": "+33 9 72 72 02 02",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://www.mnt.fr/",
     "requete": "overpass:cabinet d'assurance:Toulouse"
@@ -465,6 +511,7 @@
     "telephone": "+33 5 61 28 37 37",
     "email": "fichiers@cabinet-bedin.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.cabinet-bedin.com/agence-immobiliere/toulouse-les-carmes",
     "requete": "overpass:agence immobilière:Toulouse"
@@ -475,129 +522,10 @@
     "telephone": "+33 5 34 31 59 00",
     "email": "office@w-architectures.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'architecture",
     "signal_alerte": "Profession solvable (cabinet d'architecture, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.w-architectures.com",
     "requete": "overpass:cabinet d'architecture:Toulouse"
-  },
-  {
-    "entreprise": "Maif",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 56 33 89 33",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://maif.fr/3320",
-    "requete": "overpass:cabinet d'assurance:Bordeaux"
-  },
-  {
-    "entreprise": "fabriqA",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 35 38 26 38",
-    "email": "contact@fabriqa.fr",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet d'architecture, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://www.fabriqa.fr/",
-    "requete": "overpass:cabinet d'architecture:Bordeaux"
-  },
-  {
-    "entreprise": "Centre de Santé Dentaire Vital Carles",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 56 44 93 78",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://www.pavillon-mutualite.com/27-services-et-soins/30-centre-de-sante-vital-carles.html",
-    "requete": "overpass:cabinet dentaire:Bordeaux"
-  },
-  {
-    "entreprise": "ev avocat",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 35 54 46 14",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://ev-avocatbordeaux.fr",
-    "requete": "overpass:cabinet d'avocats:Bordeaux"
-  },
-  {
-    "entreprise": "Orthodontiste",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 57 22 46 55",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
-    "source_url": "https://www.openstreetmap.org/node/2773781158",
-    "requete": "overpass:cabinet dentaire:Bordeaux"
-  },
-  {
-    "entreprise": "Les Templitudes De Bordeaux Résidence Services Sen",
-    "localite": "Bordeaux",
-    "telephone": "+33 1 72 87 16 71",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://www.seniorsappart.com/",
-    "requete": "overpass:agence immobilière:Bordeaux"
-  },
-  {
-    "entreprise": "Sergic Bordeaux",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 33 09 30 93",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
-    "source_url": "https://www.openstreetmap.org/node/5245320573",
-    "requete": "overpass:agence immobilière:Bordeaux"
-  },
-  {
-    "entreprise": "Hestia",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 56 95 55 70",
-    "email": "cauderan@cabinethestia.immo",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
-    "source_url": "https://www.openstreetmap.org/node/5582315600",
-    "requete": "overpass:agence immobilière:Bordeaux"
-  },
-  {
-    "entreprise": "L'adresse Bordeaux",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 56 79 17 84",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
-    "source_url": "https://www.openstreetmap.org/node/5853820297",
-    "requete": "overpass:agence immobilière:Bordeaux"
-  },
-  {
-    "entreprise": "EY",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 57 85 46 00",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://www.ey.com/en_us/locations/france#bordeaux-bordeaux",
-    "requete": "overpass:cabinet d'avocats:Bordeaux"
-  },
-  {
-    "entreprise": "Mutuelle Entrain",
-    "localite": "Bordeaux",
-    "telephone": "+33 8 09 40 54 54",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://www.mutuelle-entrain.fr/",
-    "requete": "overpass:cabinet d'assurance:Bordeaux"
-  },
-  {
-    "entreprise": "Castagnon Avocats",
-    "localite": "Bordeaux",
-    "telephone": "+33 5 56 81 03 31",
-    "email": "contact@castagnonavocats.com",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://www.castagnonavocats.com/",
-    "requete": "overpass:cabinet d'avocats:Bordeaux"
   },
   {
     "entreprise": "Jbg Immobilier",
@@ -605,6 +533,7 @@
     "telephone": "+33 3 20 88 24 20",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.jbgimmo.fr/",
     "requete": "overpass:agence immobilière:Lille"
@@ -615,6 +544,7 @@
     "telephone": "+33 2 32 83 60 59",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2096356687",
     "requete": "overpass:cabinet d'assurance:Lille"
@@ -625,6 +555,7 @@
     "telephone": "+33 3 20 57 92 22",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.abrinor.fr/abrinor-lille",
     "requete": "overpass:agence immobilière:Lille"
@@ -635,6 +566,7 @@
     "telephone": "+33 3 28 36 29 29",
     "email": "estime@estime-immo.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://www.estime-immo.com",
     "requete": "overpass:agence immobilière:Lille"
@@ -645,6 +577,7 @@
     "telephone": "+33 3 20 51 50 51",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2995433305",
     "requete": "overpass:agence immobilière:Lille"
@@ -655,6 +588,7 @@
     "telephone": "+33 3 20 06 26 25",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.promogim.fr/",
     "requete": "overpass:agence immobilière:Lille"
@@ -665,6 +599,7 @@
     "telephone": "+33 3 20 42 31 13",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.sergic.com/agence-immobiliere/lille-59000/",
     "requete": "overpass:agence immobilière:Lille"
@@ -675,6 +610,7 @@
     "telephone": "+33 3 20 57 97 55",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.cabinet-choquet.com/",
     "requete": "overpass:agence immobilière:Lille"
@@ -685,6 +621,7 @@
     "telephone": "+33 3 20 18 36 90",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5327094221",
     "requete": "overpass:cabinet d'assurance:Lille"
@@ -695,6 +632,7 @@
     "telephone": "+33 9 78 97 98 99",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5327097521",
     "requete": "overpass:cabinet d'assurance:Lille"
@@ -705,6 +643,7 @@
     "telephone": "+33 3 20 57 76 06",
     "email": "agence.lille@mma.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://agence.mma.fr/lille-place-strasbourg-massena/",
     "requete": "overpass:cabinet d'assurance:Lille"
@@ -715,6 +654,7 @@
     "telephone": "+33 3 20 14 52 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://descampiaux-dudicourt.fr/",
     "requete": "overpass:agence immobilière:Lille"
@@ -725,6 +665,7 @@
     "telephone": "+33 2 52 48 00 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.kermarrec-habitation.fr/nos-agences/agence-de-nantes-talensac/",
     "requete": "overpass:agence immobilière:Nantes"
@@ -735,6 +676,7 @@
     "telephone": "+33 2 40 05 17 27",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://agences.groupama.fr/assurance/loire-bretagne/agence-groupama-nantes-republique-idLBR44200",
     "requete": "overpass:cabinet d'assurance:Nantes"
@@ -745,6 +687,7 @@
     "telephone": "+33 2 40 89 61 61",
     "email": "contact@axiome-immobilier.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://www.axiome-immobilier.fr",
     "requete": "overpass:agence immobilière:Nantes"
@@ -755,6 +698,7 @@
     "telephone": "+33 2 55 59 99 11",
     "email": "toutesaides@pichelin-immobilier.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/1619037395",
     "requete": "overpass:agence immobilière:Nantes"
@@ -765,6 +709,7 @@
     "telephone": "+33 2 51 81 09 09",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.blot-immobilier.fr/nos-agences/immobilier/agence-immobiliere-nantes-dalby/",
     "requete": "overpass:agence immobilière:Nantes"
@@ -775,6 +720,7 @@
     "telephone": "+33 2 40 50 00 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.immea.fr/",
     "requete": "overpass:agence immobilière:Nantes"
@@ -785,6 +731,7 @@
     "telephone": "+33 2 51 86 09 60",
     "email": "contact@vivreici.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.dechampsavin.net/",
     "requete": "overpass:agence immobilière:Nantes"
@@ -795,6 +742,7 @@
     "telephone": "+33 9 70 80 98 09",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.gmf.fr/agences-gmf/assurance-nantes-rond-point-de-paris?codeAppelant=EP",
     "requete": "overpass:cabinet d'assurance:Nantes"
@@ -805,6 +753,7 @@
     "telephone": "+33 2 40 37 03 72",
     "email": "saintdonatien@ajp-immobilier.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.ajp-immobilier.com/agence-immobiliere/nantes-44000/ajp-immobilier-nantes-saint-donatien/000020.htm",
     "requete": "overpass:agence immobilière:Nantes"
@@ -815,6 +764,7 @@
     "telephone": "+33 2 40 20 26 26",
     "email": "cabourg@breville-immobilier.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://www.breville-immobilier.com",
     "requete": "overpass:agence immobilière:Nantes"
@@ -825,6 +775,7 @@
     "telephone": "+33 2 51 82 42 42",
     "email": "nantesdecre@groupecisn.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://cisn-immobilier.fr/agence/cisn-nantes-decre",
     "requete": "overpass:agence immobilière:Nantes"
@@ -835,6 +786,7 @@
     "telephone": "+33 8 00 73 47 34",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/2844603294",
     "requete": "overpass:agence immobilière:Nantes"
@@ -845,6 +797,7 @@
     "telephone": "+33 1 42 87 59 13",
     "email": "toa67@toa-archi.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'architecture",
     "signal_alerte": "Profession solvable (cabinet d'architecture, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://toa-archi.com/",
     "requete": "overpass:cabinet d'architecture:Strasbourg"
@@ -855,6 +808,7 @@
     "telephone": "+33 3 88 30 32 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'avocats",
     "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/3722797045",
     "requete": "overpass:cabinet d'avocats:Strasbourg"
@@ -865,6 +819,7 @@
     "telephone": "+33 3 90 41 24 10",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/3754435725",
     "requete": "overpass:agence immobilière:Strasbourg"
@@ -875,8 +830,20 @@
     "telephone": "+33 3 88 36 49 54",
     "email": "immorhin@orange.fr",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "www.immorhin.fr",
+    "requete": "overpass:agence immobilière:Strasbourg"
+  },
+  {
+    "entreprise": "Christelle Clauss Demeures Et Villas",
+    "localite": "Strasbourg",
+    "telephone": "+33 3 90 22 81 30",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
+    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
+    "source_url": "https://www.openstreetmap.org/node/4467894494",
     "requete": "overpass:agence immobilière:Strasbourg"
   },
   {
@@ -885,6 +852,7 @@
     "telephone": "+33 3 69 96 40 01",
     "email": "es@egregoreconseil.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://www.egregoreconseil.com",
     "requete": "overpass:agence immobilière:Strasbourg"
@@ -895,6 +863,7 @@
     "telephone": "+33 3 88 22 13 85",
     "email": "accueil@welsch-kessler.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'avocats",
     "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "http://www.welsch-kessler.com/",
     "requete": "overpass:cabinet d'avocats:Strasbourg"
@@ -905,6 +874,7 @@
     "telephone": "+33 3 88 43 04 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5279487665",
     "requete": "overpass:cabinet d'assurance:Strasbourg"
@@ -915,6 +885,7 @@
     "telephone": "+33 3 88 15 58 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5321684623",
     "requete": "overpass:cabinet d'assurance:Strasbourg"
@@ -925,6 +896,7 @@
     "telephone": "+33 3 90 41 07 30",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5745922725",
     "requete": "overpass:agence immobilière:Strasbourg"
@@ -935,6 +907,7 @@
     "telephone": "+33 3 88 44 01 86",
     "email": "contact@immochevreux.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.immochevreux.com/",
     "requete": "overpass:agence immobilière:Strasbourg"
@@ -945,19 +918,10 @@
     "telephone": "+33 3 88 76 75 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
     "source_url": "https://www.openstreetmap.org/node/5745975207",
     "requete": "overpass:cabinet d'assurance:Strasbourg"
-  },
-  {
-    "entreprise": "Alsabail",
-    "localite": "Strasbourg",
-    "telephone": "+33 3 88 21 22 00",
-    "email": "",
-    "categorie": "Profession solvable — site web à créer/refondre",
-    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
-    "source_url": "https://www.alsabail.fr/",
-    "requete": "overpass:agence immobilière:Strasbourg"
   },
   {
     "entreprise": "Picado",
@@ -965,6 +929,7 @@
     "telephone": "+33 4 93 84 80 50",
     "email": "locations@groupepicado.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://groupepicado.com/fr/",
     "requete": "overpass:agence immobilière:Nice"
@@ -975,6 +940,7 @@
     "telephone": "+33 4 92 07 10 00",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
     "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.facebook.com/axa.agence.schubetzer",
     "requete": "overpass:cabinet d'assurance:Nice"
@@ -985,6 +951,7 @@
     "telephone": "+33 4 93 80 81 70",
     "email": "",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'avocats",
     "signal_alerte": "Profession solvable (cabinet d'avocats, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://www.lazard-avocat.com",
     "requete": "overpass:cabinet d'avocats:Nice"
@@ -995,8 +962,141 @@
     "telephone": "+33 4 93 88 47 19",
     "email": "philippe.verseauimmo@gmail.com",
     "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
     "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
     "source_url": "https://sud-europe-immo.fr",
     "requete": "overpass:agence immobilière:Nice"
+  },
+  {
+    "entreprise": "Agence Immobilière Nice Côte d'Azur",
+    "localite": "Nice",
+    "telephone": "+33 4 93 87 83 33",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
+    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
+    "source_url": "https://www.immobilier-nice.fr/fr/",
+    "requete": "overpass:agence immobilière:Nice"
+  },
+  {
+    "entreprise": "Central Gestion",
+    "localite": "Nice",
+    "telephone": "+33 4 93 04 08 70",
+    "email": "cabinetcentralgestion@gmail.com",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
+    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
+    "source_url": "https://cabinetcentral.fr/",
+    "requete": "overpass:agence immobilière:Nice"
+  },
+  {
+    "entreprise": "Bep Logements",
+    "localite": "Nice",
+    "telephone": "+33 4 93 52 04 40",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
+    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
+    "source_url": "www.bep-logement.com/fr",
+    "requete": "overpass:agence immobilière:Nice"
+  },
+  {
+    "entreprise": "Century 21",
+    "localite": "Nice",
+    "telephone": "+33 4 93 56 60 60",
+    "email": "lafage@casaland.com",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
+    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
+    "source_url": "https://www.openstreetmap.org/node/4498785627",
+    "requete": "overpass:agence immobilière:Nice"
+  },
+  {
+    "entreprise": "Combas Architectes",
+    "localite": "Nice",
+    "telephone": "+33 9 80 45 09 89",
+    "email": "contact@combas-architectes.com",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'architecture",
+    "signal_alerte": "Profession solvable (cabinet d'architecture, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
+    "source_url": "http://combas.archi",
+    "requete": "overpass:cabinet d'architecture:Nice"
+  },
+  {
+    "entreprise": "BAROart",
+    "localite": "Nice",
+    "telephone": "+33 6 02 13 55 00",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'architecture",
+    "signal_alerte": "Profession solvable (cabinet d'architecture, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
+    "source_url": "https://www.baroart.fr/",
+    "requete": "overpass:cabinet d'architecture:Nice"
+  },
+  {
+    "entreprise": "Property Collection",
+    "localite": "Nice",
+    "telephone": "+33 4 93 16 80 11",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "agence immobilière",
+    "signal_alerte": "Profession solvable (agence immobilière, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
+    "source_url": "https://www.luxe-property-collection.com/fr/",
+    "requete": "overpass:agence immobilière:Nice"
+  },
+  {
+    "entreprise": "Maif Nice Acropolis",
+    "localite": "Nice",
+    "telephone": "+33 4 93 13 70 00",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
+    "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
+    "source_url": "https://www.openstreetmap.org/node/5316611822",
+    "requete": "overpass:cabinet d'assurance:Nice"
+  },
+  {
+    "entreprise": "Alain Rideau",
+    "localite": "Rennes",
+    "telephone": "+33 2 99 36 48 74",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet dentaire",
+    "signal_alerte": "Profession solvable (cabinet dentaire, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
+    "source_url": "https://www.openstreetmap.org/node/2156609011",
+    "requete": "overpass:cabinet dentaire:Rennes"
+  },
+  {
+    "entreprise": "Swiss Life",
+    "localite": "Rennes",
+    "telephone": "+33 2 99 38 87 13",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
+    "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
+    "source_url": "https://www.openstreetmap.org/node/2156609042",
+    "requete": "overpass:cabinet d'assurance:Rennes"
+  },
+  {
+    "entreprise": "MMA",
+    "localite": "Rennes",
+    "telephone": "+33 2 99 14 29 69",
+    "email": "",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'assurance",
+    "signal_alerte": "Profession solvable (cabinet d'assurance, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Aucun site web référencé sur OpenStreetMap → besoin probable de création de site, closing direct.",
+    "source_url": "https://www.openstreetmap.org/node/2559969317",
+    "requete": "overpass:cabinet d'assurance:Rennes"
+  },
+  {
+    "entreprise": "1.2 Vue",
+    "localite": "Rennes",
+    "telephone": "+33 9 73 23 99 25",
+    "email": "contact@1-2vue.com",
+    "categorie": "Profession solvable — site web à créer/refondre",
+    "secteur": "cabinet d'architecture",
+    "signal_alerte": "Profession solvable (cabinet d'architecture, clientèle aisée et budget propre) — décideur unique, cycle de vente court. Site existant à moderniser (refonte/SEO) → upsell facile.",
+    "source_url": "http://www.1-2vue.com",
+    "requete": "overpass:cabinet d'architecture:Rennes"
   }
 ]

@@ -49,32 +49,37 @@ et **closing simple** (décideur unique, cycle de vente court).
 Le livrable se concentre sur des **professions libérales et services
 solvables** dont la présence web est typiquement absente ou datée :
 
-| Segment | Nb | Pourquoi c'est un bon prospect |
+La colonne **`secteur`** porte la profession ciblée :
+
+| Secteur (`secteur`) | Nb | Pourquoi c'est un bon prospect |
 |---------|----|--------------------------------|
-| Agence immobilière | 53 | Budget marketing récurrent, besoin de leads en ligne |
-| Cabinet d'assurance | 24 | Réseau/franchise solvable, site local à moderniser |
-| Cabinet d'avocats | 10 | Clientèle aisée, budget propre, décideur unique |
-| Cabinet dentaire | 8 | Profession solvable, prise de RDV en ligne à déployer |
-| Cabinet d'architecture | 4 | Activité à fort panier, portfolio web à valoriser |
+| Agence immobilière | 54 | Budget marketing récurrent, besoin de leads en ligne |
+| Cabinet d'assurance | 25 | Réseau/franchise solvable, site local à moderniser |
+| Cabinet d'avocats | 7 | Clientèle aisée, budget propre, décideur unique |
+| Cabinet dentaire | 7 | Profession solvable, prise de RDV en ligne à déployer |
+| Cabinet d'architecture | 6 | Activité à fort panier, portfolio web à valoriser |
 | Cabinet d'expertise comptable | 1 | Récurrence de revenus, image pro à soigner |
 
-**Signal d'alerte exploité** : l'**absence de site web** (35 prospects) est un
-signal d'achat fort (besoin de création) ; la présence d'un site daté (65) est
+**Signal d'alerte exploité** : l'**absence de site web** (37 prospects) est un
+signal d'achat fort (besoin de création) ; la présence d'un site daté (63) est
 une opportunité de **refonte / SEO**. Le champ `signal_alerte` de chaque ligne
 explicite besoin + moyens + closing.
 
 ## 📊 Le fichier `result` en chiffres
 
-- **100 prospects** uniques (dédupliqués par domaine / nom+ville)
+- **100 prospects** uniques (dédupliqués par domaine / SIREN / nom+ville)
 - **100 % avec téléphone** (100/100)
-- **31 % avec email** (31/100) — récupéré « si possible » (cf. README)
-- **65** avec site web existant · **35** sans site web (= besoin de création)
-- Répartis sur **9 métropoles** : Paris, Lyon, Marseille, Toulouse, Bordeaux,
-  Lille, Nantes, Strasbourg, Nice (≈ 12 par ville, pour la diversité)
+- **32 % avec email** (32/100) — récupéré « si possible » (cf. README)
+- **63** avec site web existant · **37** sans site web (= besoin de création)
+- Répartis sur **9 métropoles** : Paris, Lyon, Marseille, Toulouse, Lille,
+  Nantes, Strasbourg, Nice, Rennes (≈ 12 par ville, pour la diversité)
 
 ### Colonnes de `result.csv` / `result.json`
-`entreprise`, `localite`, `telephone`, `email`, `categorie`,
+`entreprise`, `localite`, `telephone`, `email`, `categorie`, **`secteur`**,
 `signal_alerte`, `source_url`, `requete`.
+
+La colonne **`secteur`** est commune aux deux fichiers : profession pour les PME,
+secteur d'activité (NAF) pour les grands comptes.
 
 ## 🏢 Bonus — Grands comptes (`result_grands_comptes`)
 
