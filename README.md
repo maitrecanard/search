@@ -118,27 +118,28 @@ finaux**.
 
 ## 🏢 Bonus — Grands comptes (`result_grands_comptes`)
 
-À la demande, une cible **grands comptes** a été ajoutée dans un **fichier
-séparé**. Source : **API officielle Recherche d'entreprises**
-(`recherche-entreprises.api.gouv.fr`, données SIRENE), filtrée sur les
-catégories **GE (Grande Entreprise) + ETI (Entreprise de Taille Intermédiaire)**.
+Cible : **grands comptes PRIVÉS, non-tech, avec un besoin logiciel et les
+moyens** (hors service public). Source : **API Recherche d'entreprises**
+(SIRENE), catégories **GE + ETI**.
 
-- **500 entreprises** : **261 GE + 239 ETI**, réparties sur **201 communes**
-- **8 secteurs acheteurs de digital** équilibrés (~63 chacun) : commerce/distribution,
-  banque/assurance, industrie, transport/logistique, hôtellerie/restauration,
-  immobilier, santé, services aux entreprises
-- Section J (information-communication : **ESN/éditeurs = concurrents**) volontairement **exclue**
-- Exemples : La Poste, Société Générale, BNP Paribas, Carrefour, McDonald's France,
-  SNCF Réseau, Picard, Lidl, Lafarge, Loxam, Paul, Babilou, Amplifon, Indigo…
-- La colonne `categorie` distingue **GE** et **ETI** ; `signal_alerte` porte le
-  **secteur**, la **tranche d'effectif**, et le **dirigeant principal** (point
-  d'entrée outreach).
+- **500 entreprises** : **269 GE + 231 ETI**, réparties sur la France
+- **Privées uniquement** : le **secteur public / para-public est exclu**
+  (associations, EPIC, et organismes d'État par nom : La Poste, SNCF, RATP,
+  EDF, CHU, mairies, universités…)
+- **Non-tech** : la section J (information-communication = ESN/éditeurs) est exclue
+- **8 secteurs** équilibrés : commerce/distribution, banque/assurance, industrie,
+  transport, hôtellerie/restauration, immobilier, santé (privée), services
+- **394 / 500 avec décideur nommé** (`signal_alerte`) — personne physique,
+  commissaires aux comptes écartés
+- Exemples : Lidl, Société Générale, BNP Paribas, Carrefour, McDonald's France,
+  Picard, Lafarge, Loxam, Babilou, Amplifon, Indigo, Elior…
+- `categorie` distingue **GE** / **ETI** ; `signal_alerte` porte le **secteur**,
+  la **tranche d'effectif** et le **décideur** (point d'entrée outreach).
 
-> ⚠️ **Dynamique différente du fichier PME** : un grand compte coche « besoin +
-> moyens » (gros budgets de transformation digitale) mais **pas « facile à
-> closer »** — cycle de vente long, multi-décideurs, appels d'offres. Le
-> téléphone/email direct n'est pas exposé par l'API (contact via DSI /
-> dirigeant), donc ces colonnes restent vides (« si possible »).
+> ⚠️ **Dynamique vs le fichier PME** : un grand compte coche « besoin logiciel +
+> moyens » (gros budgets de transformation digitale) mais le cycle de vente est
+> plus long (multi-décideurs). Tél/email non exposés par l'API → contact via le
+> **dirigeant nommé** + le lien `source_url`.
 
 ## 🎯 Bonus — Besoins logiciels *avérés* (`result_besoins_logiciels`)
 
@@ -193,7 +194,7 @@ preuve que la voie « moteur de recherche » fonctionne hors throttling.
 Développement → vérification → **tests unitaires** → exécution → correction →
 régression, à chaque itération :
 
-- **65 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
+- **66 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
   moteurs (DDG html/lite, Mojeek), extraction (email, téléphone FR, localité,
   nom d'entreprise), Overpass (parsing, requête QL, dédup), grands comptes (API
   entreprises, secteurs, dédup SIREN), besoins BOAMP (3 schémas IDENTITE/
