@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+mapa_refresh.log
+profil.json

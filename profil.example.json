@@ -1,0 +1,22 @@
+{
+  "_comment": "Copie ce fichier en profil.json et remplis tes infos. profil.json est ignoré par git (.gitignore) pour ne pas publier tes données.",
+  "candidat_nom": "Prénom NOM",
+  "candidat_forme": "micro-entreprise",
+  "siret": "000 000 000 00000",
+  "ape": "62.01Z",
+  "tva": "TVA non applicable, art. 293 B du CGI",
+  "adresse": "12 rue Exemple, 00000 Ville",
+  "email": "prenom.nom@exemple.fr",
+  "tel": "06 00 00 00 00",
+  "site": "https://exemple.fr",
+  "linkedin": "https://www.linkedin.com/in/exemple",
+  "ville_signature": "Ville",
+  "tjm": 500,
+  "stack": "JavaScript/TypeScript, React, Node.js, PostgreSQL",
+  "references": "‹2-3 projets comparables : client, objet, techno, résultat›",
+  "iban": "FR76 0000 0000 0000 0000 0000 000",
+  "bic": "XXXXXXXX",
+  "delai_semaines": 18,
+  "validite_offre_jours": 120,
+  "garantie_mois": 12
+}
