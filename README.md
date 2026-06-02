@@ -23,6 +23,10 @@ Un moteur de prospection a été développé pour répondre au cahier des charge
 ci-dessus. Le livrable demandé — le **fichier `result`** — est fourni en deux
 formats : [`result.csv`](result.csv) et [`result.json`](result.json).
 
+Un **second fichier bonus** cible les **grands comptes** :
+[`result_grands_comptes.csv`](result_grands_comptes.csv) et
+[`result_grands_comptes.json`](result_grands_comptes.json) (voir section dédiée).
+
 ## ✅ Fonctionnalités demandées et état
 
 | # | Fonctionnalité (README) | État | Détail |
@@ -72,6 +76,29 @@ explicite besoin + moyens + closing.
 `entreprise`, `localite`, `telephone`, `email`, `categorie`,
 `signal_alerte`, `source_url`, `requete`.
 
+## 🏢 Bonus — Grands comptes (`result_grands_comptes`)
+
+À la demande, une cible **grands comptes** a été ajoutée dans un **fichier
+séparé**. Source : **API officielle Recherche d'entreprises**
+(`recherche-entreprises.api.gouv.fr`, données SIRENE), filtrée sur la catégorie
+**GE (Grande Entreprise)**.
+
+- **100 grandes entreprises**, réparties sur **47 communes**
+- **8 secteurs acheteurs de digital** équilibrés (12–13 chacun) : commerce/distribution,
+  banque/assurance, industrie, transport/logistique, hôtellerie/restauration,
+  immobilier, santé, services aux entreprises
+- Section J (information-communication : **ESN/éditeurs = concurrents**) volontairement **exclue**
+- Exemples : La Poste, Société Générale, BNP Paribas, Carrefour, McDonald's France,
+  SNCF Réseau, Picard, Lidl, Lafarge…
+- Chaque ligne porte le **secteur**, la **tranche d'effectif**, et le **dirigeant
+  principal** (point d'entrée outreach) dans `signal_alerte`.
+
+> ⚠️ **Dynamique différente du fichier PME** : un grand compte coche « besoin +
+> moyens » (gros budgets de transformation digitale) mais **pas « facile à
+> closer »** — cycle de vente long, multi-décideurs, appels d'offres. Le
+> téléphone/email direct n'est pas exposé par l'API (contact via DSI /
+> dirigeant), donc ces colonnes restent vides (« si possible »).
+
 ## 🔎 Moteurs de recherche utilisés
 
 Le README autorise « DuckDuckGo **ou tout autre outil de recherche** ». En
@@ -96,10 +123,10 @@ preuve que la voie « moteur de recherche » fonctionne hors throttling.
 Développement → vérification → **tests unitaires** → exécution → correction →
 régression, à chaque itération :
 
-- **38 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
+- **43 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
   moteurs (DDG html/lite, Mojeek), extraction (email, téléphone FR, localité,
-  nom d'entreprise), Overpass (parsing, requête QL, dédup), pipeline (cap par
-  ville), écriture CSV/JSON.
+  nom d'entreprise), Overpass (parsing, requête QL, dédup), grands comptes (API
+  entreprises, secteurs, dédup SIREN), pipeline (cap par ville), écriture CSV/JSON.
 - Corrections issues de l'exécution réelle : rate-limiting (back-off +
   circuit-breaker), bascule de moteur, requête Overpass (`;` manquant,
   instance régionale écartée), dédup des fiches sans site, répartition
