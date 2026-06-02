@@ -80,18 +80,19 @@ explicite besoin + moyens + closing.
 
 À la demande, une cible **grands comptes** a été ajoutée dans un **fichier
 séparé**. Source : **API officielle Recherche d'entreprises**
-(`recherche-entreprises.api.gouv.fr`, données SIRENE), filtrée sur la catégorie
-**GE (Grande Entreprise)**.
+(`recherche-entreprises.api.gouv.fr`, données SIRENE), filtrée sur les
+catégories **GE (Grande Entreprise) + ETI (Entreprise de Taille Intermédiaire)**.
 
-- **100 grandes entreprises**, réparties sur **47 communes**
-- **8 secteurs acheteurs de digital** équilibrés (12–13 chacun) : commerce/distribution,
+- **200 entreprises** : **120 GE + 80 ETI**, réparties sur **86 communes**
+- **8 secteurs acheteurs de digital** équilibrés (25 chacun) : commerce/distribution,
   banque/assurance, industrie, transport/logistique, hôtellerie/restauration,
   immobilier, santé, services aux entreprises
 - Section J (information-communication : **ESN/éditeurs = concurrents**) volontairement **exclue**
 - Exemples : La Poste, Société Générale, BNP Paribas, Carrefour, McDonald's France,
-  SNCF Réseau, Picard, Lidl, Lafarge…
-- Chaque ligne porte le **secteur**, la **tranche d'effectif**, et le **dirigeant
-  principal** (point d'entrée outreach) dans `signal_alerte`.
+  SNCF Réseau, Picard, Lidl, Lafarge, Loxam, Paul, Babilou, Amplifon, Indigo…
+- La colonne `categorie` distingue **GE** et **ETI** ; `signal_alerte` porte le
+  **secteur**, la **tranche d'effectif**, et le **dirigeant principal** (point
+  d'entrée outreach).
 
 > ⚠️ **Dynamique différente du fichier PME** : un grand compte coche « besoin +
 > moyens » (gros budgets de transformation digitale) mais **pas « facile à
