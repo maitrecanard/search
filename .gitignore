@@ -3,3 +3,5 @@ __pycache__/
 dossiers/
 mapa_refresh.log
 profil.json
+crm/
+.crm.env
