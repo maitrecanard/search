@@ -193,17 +193,52 @@ fournit directement nom + ville + téléphone + email + site pour les profession
 ciblées). Un essai antérieur via Mojeek avait déjà capturé 31 cabinets réels —
 preuve que la voie « moteur de recherche » fonctionne hors throttling.
 
+## 🔬 Audit de site & mail de prospection personnalisé
+
+Module d'**approche à froid** : on lit le site d'un prospect, on relève ses
+anomalies SEO et sécurité, et on génère un **mail commercial personnalisé** (ton
+tech pro) qui montre qu'on a vraiment regardé son site — pour donner envie de
+répondre.
+
+```bash
+python3 audit_site.py --url exemple.fr --entreprise "Exemple SARL"   # 1 site
+python3 audit_site.py --from-prospects result.json --limit 5 --out audits.md
+python3 audit_site.py --url exemple.fr --no-llm     # mail sur gabarit (sans Claude)
+```
+
+- **Analyse SEO** (`prospect_search/site_audit.py`) : `<title>` (absent/court/long),
+  meta description, H1 (absent/multiple), viewport mobile, `lang`, canonical,
+  Open Graph, images sans `alt`, données structurées JSON-LD, `sitemap.xml`.
+- **Analyse sécurité** : HTTPS, en-têtes (HSTS, CSP, X-Frame-Options, nosniff,
+  Referrer-Policy), fuite de version serveur (`Server`/`X-Powered-By`),
+  technologies en fin de vie (PHP 5/7.0-7.3, Apache 2.2, jQuery 1.x), contenu
+  mixte, cookies sans `Secure`. Chaque anomalie porte une sévérité (haute/
+  moyenne/basse) et un **impact business** réutilisé dans le mail.
+- **Rédaction du mail** (`prospect_search/outreach.py`) : par **Claude
+  `claude-opus-4-8`** (thinking adaptatif), à partir des 2-3 anomalies les plus
+  parlantes + le profil (`profil.json`). Authentification via la **session
+  Anthropic courante** (`ANTHROPIC_API_KEY`, `ANTHROPIC_AUTH_TOKEN`, puis token
+  de la session Claude locale). **Repli automatique sur un gabarit** si le LLM
+  est indisponible (clé absente, rate-limit, hors-ligne) : l'audit reste toujours
+  exploitable.
+
+> ⚠️ Le mail LLM nécessite un quota Anthropic disponible. Lancé *depuis* une
+> session Claude Code active, l'appel peut être temporairement `429` (quota Max
+> partagé) → le gabarit prend le relais. Avec une `ANTHROPIC_API_KEY` dédiée,
+> l'appel passe directement.
+
 ## 🧪 Cycle de qualité suivi
 
 Développement → vérification → **tests unitaires** → exécution → correction →
 régression, à chaque itération :
 
-- **67 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
+- **94 tests unitaires** (`unittest`, hors-ligne via fixtures) : parsing des
   moteurs (DDG html/lite, Mojeek), extraction (email, téléphone FR, localité,
   nom d'entreprise), Overpass (parsing, requête QL, dédup), grands comptes (API
   entreprises, secteurs, dédup SIREN), besoins BOAMP (3 schémas IDENTITE/
   FNSimple/EFORMS, anti-faux-positifs contact), pipeline (cap par ville),
-  écriture CSV/JSON.
+  écriture CSV/JSON, **audit SEO/sécurité + génération de mail** (20 tests :
+  détection des anomalies, tri par sévérité, gabarit & parsing de la sortie LLM).
 - Corrections issues de l'exécution réelle : rate-limiting (back-off +
   circuit-breaker), bascule de moteur, requête Overpass (`;` manquant,
   instance régionale écartée), dédup des fiches sans site, répartition
