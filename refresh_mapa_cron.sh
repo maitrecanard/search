@@ -56,6 +56,15 @@ else
   echo "[$(ts)] avertissement: collecte intranet incomplète"
 fi
 
+# --- Recherche de clients finaux privés « appli web » (Laravel/React, hors ESN) ---
+echo "[$(ts)] recherche clients appli web…"
+if python3 main.py --source webapp --target 60 --out result_webapp \
+     2>&1 | sed "s/^/[$(ts)] webapp: /"; then
+  echo "[$(ts)] collecte webapp terminée"
+else
+  echo "[$(ts)] avertissement: collecte webapp incomplète"
+fi
+
 # --- Envoi des données au CRM distant (si configuré) ---
 if [ -f "$REPO/.crm.env" ]; then
   set -a; . "$REPO/.crm.env"; set +a
