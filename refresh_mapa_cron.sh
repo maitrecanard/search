@@ -46,6 +46,16 @@ else
   echo "[$(ts)] avertissement: collecte Salesforce incomplète (cible non atteinte)"
 fi
 
+# --- Recherche de besoins INTRANET / application métier / SaaS ---
+# Régénère result_intranet.json (offres free-work privées + marchés publics BOAMP).
+echo "[$(ts)] recherche besoins intranet/SaaS…"
+if python3 main.py --source intranet --target 100 --out result_intranet \
+     2>&1 | sed "s/^/[$(ts)] intranet: /"; then
+  echo "[$(ts)] collecte intranet terminée"
+else
+  echo "[$(ts)] avertissement: collecte intranet incomplète"
+fi
+
 # --- Envoi des données au CRM distant (si configuré) ---
 if [ -f "$REPO/.crm.env" ]; then
   set -a; . "$REPO/.crm.env"; set +a
