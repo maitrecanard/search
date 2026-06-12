@@ -20,15 +20,11 @@ import sys
 from crm_sdk import CrmClient, CrmError
 
 # Fichier source -> libellé interne (même convention que l'import local).
+# Ciblage recentré sur la NICHE INDUSTRIE (aéro + logistique + conseil IT) :
+# les anciens jeux (PME immo, grands comptes, clients_tech, besoins) et les
+# pistes free-work (salesforce/intranet/webapp) ne sont plus poussés au CRM.
 FILES = {
     "result_niche.json": "niche",
-    "result_webapp.json": "webapp",
-    "result_salesforce.json": "salesforce",
-    "result_intranet.json": "intranet",
-    "result.json": "pme",
-    "result_clients_tech.json": "clients_tech",
-    "result_grands_comptes.json": "grands_comptes",
-    "result_besoins_logiciels.json": "besoins",
 }
 
 

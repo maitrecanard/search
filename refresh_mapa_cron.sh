@@ -35,35 +35,8 @@ else
   echo "[$(ts)] aucun changement"
 fi
 
-# --- Recherche de prospects INTÉGRATION SALESFORCE (cible actuelle) ---
-# Régénère result_salesforce.json en direct (offres free-work actives + SIRENE)
-# avant l'envoi au CRM, sinon le CRM ne reçoit que des données figées.
-echo "[$(ts)] recherche prospects Salesforce…"
-if python3 main.py --source salesforce --target 100 --out result_salesforce \
-     2>&1 | sed "s/^/[$(ts)] sf: /"; then
-  echo "[$(ts)] collecte Salesforce terminée"
-else
-  echo "[$(ts)] avertissement: collecte Salesforce incomplète (cible non atteinte)"
-fi
-
-# --- Recherche de besoins INTRANET / application métier / SaaS ---
-# Régénère result_intranet.json (offres free-work privées + marchés publics BOAMP).
-echo "[$(ts)] recherche besoins intranet/SaaS…"
-if python3 main.py --source intranet --target 100 --out result_intranet \
-     2>&1 | sed "s/^/[$(ts)] intranet: /"; then
-  echo "[$(ts)] collecte intranet terminée"
-else
-  echo "[$(ts)] avertissement: collecte intranet incomplète"
-fi
-
-# --- Recherche de clients finaux privés « appli web » (Laravel/React, hors ESN) ---
-echo "[$(ts)] recherche clients appli web…"
-if python3 main.py --source webapp --target 60 --out result_webapp \
-     2>&1 | sed "s/^/[$(ts)] webapp: /"; then
-  echo "[$(ts)] collecte webapp terminée"
-else
-  echo "[$(ts)] avertissement: collecte webapp incomplète"
-fi
+# Ciblage recentré sur la NICHE INDUSTRIE : les collectes free-work
+# (salesforce / intranet / webapp) ont été retirées — non poussées au CRM.
 
 # --- NICHE INDUSTRIE : aéronautique + logistique + conseil IT (SIRENE, PME/ETI) ---
 echo "[$(ts)] recherche niche industrie…"
