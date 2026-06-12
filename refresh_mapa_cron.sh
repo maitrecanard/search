@@ -65,6 +65,15 @@ else
   echo "[$(ts)] avertissement: collecte webapp incomplète"
 fi
 
+# --- NICHE INDUSTRIE : aéronautique + logistique + conseil IT (SIRENE, PME/ETI) ---
+echo "[$(ts)] recherche niche industrie…"
+if python3 main.py --source niche --target 100 --out result_niche \
+     2>&1 | sed "s/^/[$(ts)] niche: /"; then
+  echo "[$(ts)] collecte niche terminée"
+else
+  echo "[$(ts)] avertissement: collecte niche incomplète"
+fi
+
 # --- Envoi des données au CRM distant (si configuré) ---
 if [ -f "$REPO/.crm.env" ]; then
   set -a; . "$REPO/.crm.env"; set +a

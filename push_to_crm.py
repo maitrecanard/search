@@ -21,6 +21,7 @@ from crm_sdk import CrmClient, CrmError
 
 # Fichier source -> libellé interne (même convention que l'import local).
 FILES = {
+    "result_niche.json": "niche",
     "result_webapp.json": "webapp",
     "result_salesforce.json": "salesforce",
     "result_intranet.json": "intranet",
